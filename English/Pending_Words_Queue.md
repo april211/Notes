@@ -1,0 +1,50 @@
+# 待学习词汇队列
+
+我之前提到过我习惯于使用有道单词本来抗遗忘、拓展词汇。
+
+我的有道单词本里面也包含了一部分看似简单基础、实则需要在短时间内反复学习的词汇。而有道单词本的复习周期比较长，资料不齐整，这让我将这部分重点词汇的学习转移到了 OALD 上面。
+
+本文件就是用来记录我在有道单词本复习过程中，发现的具有上述特征的词汇。另外，日常学习生活中遇到的一些单词也会加入进来。这些单词将按照 FIFO 的策略，逐步加入到 [OALD](./OALD.md) 中，已经加入的单词将~~使用删除线划去~~。
+
+## 2023.7.9
+
+（今天刚创建这个文件，就把之前记录在草稿纸上的单词全部整理过来了）
+
+~~conduct~~ | ~~connect~~ | profuse | supply | narrate | conflate | idleness | endemic | substance | meat | wail | close | portray | announce | overplus | crowd | entail | involve | assume | fertile | banish | consider | exempt | ride | leave | dispute | access | apply | pleasurable | seek 
+
+## 2023.7.10
+
+diverse | depend | degree | commit | extensive 
+
+## 2023.7.11
+
+remiss | justify | reward | prospect | impend | impending | provision | occasion | interim | proper | rave | secure | seem | account | equivalent | tally | agree | bring 
+
+## 2023.7.12
+
+conviction | derive | reach | descend | argument | appear | survive | occupy
+
+## 2023.7.13
+
+suspension | misgiving | reflect | fortune | enlighten
+
+## 2023.7.14
+
+stimulate | inspire | intensive
+
+## 2023.7.15
+
+indicate | present | fill | eligible | mediate
+
+## 2023.7.16
+
+lend | compete | treatment 
+
+## 2023.7.17
+
+suit | disapprove | approve | dismay | consign 
+
+## 2023.7.18
+
+distinguish | except | refuse | rational
+
