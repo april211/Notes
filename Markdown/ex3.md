@@ -37,6 +37,22 @@ Try to put a blank line before...
 
 注意：～～中文的波浪线是不管用的～～
 
+# 下划线语法
+
+要在 Markdown 文本中使用下划线，你需要使用 HTML 的 `<ins>` 标签来实现这一点。
+
+键入 Markdown 代码如下：
+
+```
+<ins>look at me now</ins>
+```
+
+渲染效果如下：
+
+<ins>look at me now</ins>
+
+不过 Markdown 并不建议使用下划线语法，这是因为它的渲染结果可能与人们熟知的超链接相混淆。可以去看一下 StackOverflow 上的 [相关讨论](https://stackoverflow.com/questions/3003476/get-underlined-text-with-markdown)。
+
 ---
 
 # 链接语法
