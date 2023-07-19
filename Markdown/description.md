@@ -41,5 +41,6 @@
 - [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 - [Markdown Guide - Tools，你可以在这查询很多软件的特性](https://www.markdownguide.org/tools/)
 - [Emojipedia，你可以在这里查询想要的 Emoji 表情](https://emojipedia.org/)
+- [Github - Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 - 其他网络资源（例如博客等，已经尽量在使用位置注明）
 
