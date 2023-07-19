@@ -250,6 +250,12 @@ Margaret Murray was born on 13 July 1863 in Calcutta, Bengal Presidency, then a 
 
 你应当可以观察到，上面刚新增的脚注的第二部分被附加到了本文的最后，也就是前面那段 Markdown 代码所生成的脚注的第二部分的后面。
 
+对于 Github 所支持的 Markdown 风格，该规则也同样适用。[参考链接](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#footnotes)
+
+> Note: The position of a footnote in your Markdown does **not** influence where the footnote will be rendered. You can write a footnote right after your reference to the footnote, and **the footnote will still render at the bottom of the Markdown**.
+> 
+> **Footnotes are not supported in wikis.**
+
 如果你使用 [Markdown 官网 - Markdown 脚注](https://markdown.com.cn/extended-syntax/footnotes.html#markdown-%E8%84%9A%E6%B3%A8) 给出的示例在本地进行渲染，应该也是没问题的，只是这个网站本身的渲染可能有问题，其网页的截图如下（2023-7-13）。
 
 ![markdown_cn_footnotes_error](../images/markdown_cn_footnotes_error.png)
