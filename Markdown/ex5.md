@@ -18,6 +18,10 @@
 | A     |    B   |    C |
 | D     |    E   |    F |
 
+**请注意**：你至少需要三个 `-` 来构成表头：
+
+> There must be at least three hyphens in each column of the header row. --- [GFM](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables#creating-a-table)
+
 但是会发现这样做**有如下问题**：
 
 - 这很耗时费力
