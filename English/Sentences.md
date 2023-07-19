@@ -24,8 +24,8 @@ This step may *sound* **overly deferential**.
 Scientific publishing *has long been* **a licence to print money**. 
 *长期以来*，科学出版业*一直是***一本万利**的行业。 > 2023-7-17
 
-🌟 It is almost impossible to **go through life** *without* experiencing some kind of faliure.
-**人的一生**几乎不可能*不*经历某种失败。
+🌟 It is almost impossible to **go through life** *without* experiencing any kind of faliure.
+**人的一生**几乎不可能*不*经历某种失败。 > 2023-7-19
 
 We neither understand nor **respect each other**, and we **have no basis for** *compromise* or cooperation.
 我们既不理解也不**尊重对方**，更**没有***妥协*或者合作**的基础**。 > 2023-7-16
@@ -61,7 +61,7 @@ When you *come down to* it, however, the basic problems of life **have not chang
 然而，*归结*起来，生活的基本问题**并未改变**。 > 2023-7-17
 
 🌟 Large numbers of soldiers **deserted** *as* defeat **became inevitable**.
-*当*战败**已成定局**，许多士兵**开小差跑了**。
+*当*战败**已成定局**，许多士兵**开小差跑了**。 > 2023-7-19
 
 The house **seemed muted** *as if* it **had been deserted**.
 这栋房子**悄无声息**，*好像*一直**没有人居住**。 > 2023-7-17
@@ -76,7 +76,7 @@ This is **pure slander** and I'll *sue* him *for* **defamation** if he doesn't a
 这**纯属污蔑**，如果他不向我道歉，我将*控告*他**诽谤**。 > 2023-7-17
 
 She was an elegant and **accomplished woman**.
-她是一位优雅的**才女**。
+她是一位优雅的**才女**。 > 2023-7-19
 
 She is one of **the most accomplished** players *in history*.
 她是*历史上***最优秀的**运动员之一。 > 2023-7-17
@@ -101,15 +101,59 @@ These **structures** *are responsible for* **mediating** gender divisions.
 
 ## 2023-7-18
 
-He *prefaced* the diaries *with* **a short account of** how they were discovered.
+🌟 He *prefaced* the diaries *with* **a short account of** how they were discovered.
 他在*前言*中**简要叙述**了发现日记的经过。
 
-🌟 Many of the bodies were **unidentifiable** *except* by dental records.
-许多尸体*若不是*靠牙科病历就**无法辨认**。
+🌟 Many of the bodies were **unidentifiable** *except* by **dental records**.
+许多尸体*若不是*靠**牙科病历**就**无法辨认**。 > 2023-7-19
 
 His recent comments *savour of* **hypocrisy**.
 他最近那番评论显得*有点***虚伪**。
 
 He sat **for a few moments**, *savouring* the memory *to the full*.
-他坐了**一会儿**，*尽享*记忆。
+他坐了**一会儿**，*尽享*记忆。 > 2023-7-19
+
+## 2023-7-19
+
+🌟 Becoming part of a team *should not mean* **the suppression of individuality**.
+加入团队*并不意味着*要**压抑个性**。
+
+The college *is dedicated to promoting* **lifelong learning**.
+该学院*致力于推进***终身学习**。
+
+🌟 Is the government going to *honour its commitments on* the **reduction** of air pollution?
+政府会*兑现*其**减少**空气污染的*承诺*吗？
+
+🌟 The course **is designed to** *equip* students *for* a career in nursing.
+此课程**旨在**使学生*能够胜任*护理工作。
+
+Here he **received the education** that would *equip* him *to* **take his place in society**.
+他在这儿**所受的教育***能*让他**在社会中自立**。
+
+*Publication dates are given* **in brackets** after each title.
+*出版日期***括于**书名后面。
+
+He **evinced** a strong desire to *be reconciled with* his family.
+他**表现出***与*家人*和好*的强烈愿望。
+
+The waiters *came* hurrying *forward* with **obsequious smiles** on their faces.
+服务员脸上含着**不愉快的笑容**，匆匆*向前*。
+
+Don't **be fooled into** thinking they're going to *change anything*.
+别**上当受骗**，以为他们打算*作出任何改变*。
+
+🌟 Her parents were never **pushy** *although* they encouraged her **acting ambitions** *from an early age*.
+*虽然*她的父母*从小*就鼓励她**表现出雄心壮志**，但他们从不**急躁**。
+
+The company *has seen* **record sales** *over the past year*.
+该公司*在过去的一年*中*创下了***创纪录的销售额**。
+
+The election commission *found that* **neither** candidate received enough votes to avoid a **run-off**.
+选举委员会*发现*，两个候选人**都没有**获得足够的选票来避免**决选**。
+
+*Without wanting to criticize*, I think you **could have done better**. (= used before you make a critical comment)
+*我不是想要批评谁*，只是认为你**本可以做得更好一些**。
+
+The party *was organized* **without her knowing anything** about it. (without sb. doing sth.)
+聚会*已操办妥当*，**她却一无所知**。
 

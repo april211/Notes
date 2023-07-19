@@ -48,3 +48,7 @@ suit | disapprove | approve | dismay | consign
 
 distinguish | except | refuse | rational
 
+## 2023.7.19
+
+progress | gain | equip | damage | discern | complain | resign | govern | withdraw | ensure | see | candidate | commission | savour | manage
+
