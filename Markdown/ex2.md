@@ -94,3 +94,29 @@ something else... ``Use `code` in your Markdown file.`` something else...
 
 可见受保护的代码块提供了高亮显示，提升了代码的阅读体验。
 
+如果你想在受保护的代码块中使用三个连续的 `` ` ``，你需要将位于外层的 backticks 个数调整为 4。
+
+[Github 官方文档](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks#fenced-code-blocks) 中的示例代码：
+
+`````
+
+````
+```
+Look! You can see my backticks.
+```
+````
+
+`````
+
+渲染效果：
+
+````
+```
+Look! You can see my backticks.
+```
+````
+
+实际上，你不需要将外层的 backticks 一定调整为 4 个，只需要**让外层的个数大于相邻的内层 backticks 个数、并相互配对**即可。这也是我能展示上面的示例代码的原因。我在 Markdown 原始文本中的代码如下图，其中最外层使用了 5 个 backticks 并相互配对。
+
+![markdown_multiple_backticks](../images/markdown_multiple_backticks.png)
+
