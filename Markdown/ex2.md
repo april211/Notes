@@ -128,9 +128,11 @@ Look! You can see my backticks.
 
 ![markdown_multiple_backticks](../images/markdown_multiple_backticks.png)
 
-此外，受保护的代码块语法还可以用来**创建交互式图表**。Github 支持使用 `mermaid`、`geoJSON`、`topoJSON`、`ASCII STL` 等前端语法来创建图表：
+此外，受保护的代码块语法还可以用来**创建交互式图表**。Github 支持使用 `mermaid`、`geoJSON`、`topoJSON`、`ASCII STL` 等前端语法来创建图表[^github_diagram]：
 
 > You can create diagrams in Markdown using three different syntaxes: mermaid, geoJSON and topoJSON, and ASCII STL. Diagram rendering is available in GitHub Issues, GitHub Discussions, pull requests, wikis, and Markdown files.
+
+[^github_diagram]: [Github Docs - Creating Diagrams](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
 
 但遗憾的是，[我的本地环境](./description.md#我的环境配置) 似乎只支持使用 `mermaid` 语法。
 
