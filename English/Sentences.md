@@ -14,7 +14,11 @@
 
 另外，针对于描述情景、画面的例句需要更重视一点，因为这类例句在生活中显得更常见一些，毕竟视觉信息、感官信息是我们接触甚为频繁的信息类型，我们可以随时尝试加以利用。
 
-重难句在句首使用 🌟 标记；每次复习的完成程度在 50% 以上才会使用日期进行标记。
+**重难句**在句首使用 🌟 标记；每次**复习**的完成程度在 50% 以上才会使用日期进行标记。
+
+个人建议**使用 VSCode 直接观看本文档的 Markdown 原始文本**，效果如下图。另外还可以使用 `Ctrl + F` 快速搜索例句。
+
+![english_vscode_sentenses](../images/english_vscode_sentenses.png)
 
 ## 2023-7-12
 
@@ -156,4 +160,69 @@ The election commission *found that* **neither** candidate received enough votes
 
 The party *was organized* **without her knowing anything** about it. (without sb. doing sth.)
 聚会*已操办妥当*，**她却一无所知**。
+
+## 2023-7-20
+
+He *was furious with* himself for **letting things get so out of control**.
+他*对*自己*很恼火*，怪自己竟**让事情变得如此不可收拾**。
+
+She was **still** furious **over** *suggestions* that she had *lied to the public*.
+她**对**那些*暗示*她*欺骗公众*的话**仍然**怒不可遏。
+
+The president *is said to* **be furious at** the newspaper report.
+*据说*总统**对**报纸的报道**大动肝火**。
+
+🌟 **A furious row** *broke out* last night *after* **it was revealed that** hundreds of prisoners had been **released** early from jail.
+昨晚**有消息显示**，数百名囚犯已从监狱中**获释**，*随后*这*引起了***愤怒的争吵**。
+
+cThe **exhibition** *reflects* the **cultural diversity** of modern British society.
+**展览***反映了*现代英国社会的**文化多样性**。
+
+Our proposal *tries to accommodate* the special needs of **minority groups**.
+我们的提案*尽量照顾*到**少数群体**的特殊需要。
+
+I needed to **accommodate to** the new *schedule*.
+我需要**适应**新的*时间表*。
+
+*Even* these improvements *to* the service **failed to silence** a grumbling chorus of complaints.
+*即使*对服务作了这些改进*也***不能平息**一片抱怨声。
+
+Police are *investigating* the **disappearance** of a young woman.
+警方正在*调查*一名年轻女子的**失踪**案。
+
+🌟 Most drugs *offer* **either** no real improvement **or**, *at best*, only **moderate** improvements.
+大多数药**或者**没*有*真正疗效，**或者***最多也就是（充其量）***稍有**疗效。
+
+🌟 **One** *cannot fail to* be struck by **the singularity of** his sculptures.
+**一个人***一定会*对他的雕塑**的奇异之处**感到震惊。
+
+🌟 The **latest** government **initiative** *aims to* reduce **rural unemployment and deprivation**.
+政府的**最新举措***旨在*减少**农村的失业和贫困**。
+
+The **bonus** helped *maintain morale* among the staff.
+发放**奖金**有助于*保持*员工的工作*热情*。
+
+*Don’t you just* **adore** that dress!
+那件连衣裙*简直*让人**喜欢得要命**！
+
+*There needs to be* a partnership between police and public **in the fight against crime**.
+**在打击犯罪方面**，警察和公众之间*需要建立*伙伴关系。
+
+**A mere** 2 per cent of their *budget* has been *spent on publicity*.
+他们的*预算*中**只有**2％*用于宣传*。
+
+**The mere fact that** they were *prepared to talk* **was encouraging**.
+他们*愿意商谈*，**这就很不错了**。（只凭…就足以）
+
+He *is in the enviable position of* having two job offers **to choose from**.
+他有两份工作**可选**，真*让人羡慕*。
+
+🌟 Talks are **taking place** *in an attempt to* **avert a strike**.
+**正在进行**谈判以*尝试***避免出现罢工**的局面。
+
+The document provided **a revealing insight** into the government's *priorities*.
+这份文件使人**看出**政府的*轻重缓急*是怎样安排的。
+
+The writing is **workmanlike**, *if* sometimes **too casual**.
+文笔**娴熟**，*虽然*有时**过于随意**。
 
