@@ -94,6 +94,14 @@ something else... ``Use `code` in your Markdown file.`` something else...
 
 可见受保护的代码块提供了高亮显示，提升了代码的阅读体验。
 
+Github 官方使用 Linguist 进行语法渲染[^github_syntax]。
+
+> We use Linguist to perform language detection and to select third-party grammars for syntax highlighting. You can find out which keywords are valid in the languages YAML file.
+
+如果想知道具体可以使用哪些编程语言的名称（例如上面的 `json` ），请查阅 [此链接](https://github.com/github-linguist/linguist/blob/master/lib/linguist/languages.yml) 。
+
+[^github_syntax]: [Github Docs - Syntax Highlighting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks#syntax-highlighting) 
+
 如果你想在受保护的代码块中使用三个连续的 `` ` ``，你需要将位于外层的 backticks 个数调整为 4。
 
 [Github 官方文档](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks#fenced-code-blocks) 中的示例代码：
