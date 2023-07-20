@@ -128,3 +128,42 @@ Look! You can see my backticks.
 
 ![markdown_multiple_backticks](../images/markdown_multiple_backticks.png)
 
+此外，受保护的代码块语法还可以用来**创建交互式图表**。Github 支持使用 `mermaid`、`geoJSON`、`topoJSON`、`ASCII STL` 等前端语法来创建图表：
+
+> You can create diagrams in Markdown using three different syntaxes: mermaid, geoJSON and topoJSON, and ASCII STL. Diagram rendering is available in GitHub Issues, GitHub Discussions, pull requests, wikis, and Markdown files.
+
+但遗憾的是，[我的本地环境](./description.md#我的环境配置) 似乎只支持使用 `mermaid` 语法。
+
+由于这部分涉及的知识似乎已经超过了 Markdown 语法知识的范畴，这里仅放置一个 [Github 官方文档](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams#creating-mermaid-diagrams) 中展示的例子，大家可以感受一下，有兴趣可以自己找文档去学习。
+
+示例代码：
+
+````
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+````
+
+渲染效果：
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+再放一张 [Github 官方文档](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams#creating-mermaid-diagrams) 给出的图：
+
+![markdown_mermaid_github_example](../images/markdown_mermaid_github_example.webp)
+
+*个人感觉 mermaid 很有意思，它解决了开发过程中文档频繁变更等痛点问题，可以使用简单的代码渲染出图[^mermaid]。*
+
+[^mermaid]: [Mermaid - 中文 README](https://github.com/mermaid-js/mermaid/blob/develop/README.zh-CN.md)
+
