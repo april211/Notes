@@ -260,7 +260,7 @@ Margaret Murray was born on 13 July 1863 in Calcutta, Bengal Presidency, then a 
 
 可以观察到，**上面那段 Markdown 渲染得到的脚注的第二部分被安排到了文章的末尾，而不管它实际被书写在何处**。这无疑方便了我们的书写过程。
 
-另外，[Markdown 官网 - Markdown 脚注](https://markdown.com.cn/extended-syntax/footnotes.html#markdown-%E8%84%9A%E6%B3%A8) 一文中提到了标识符的书写问题。我们在书写标识符时，可以不使用惯用的 `1, 2, 3 ... ` 这样的数字标识符，而是可以使用其他字符来作为标识符 [^就像这样]。但遗憾的是，这在我的环境配置、以及 Github 下并不能奏效，生成的脚注最后还是被数字序列化了……
+另外，[Markdown 官网 - Markdown 脚注](https://markdown.com.cn/extended-syntax/footnotes.html#markdown-%E8%84%9A%E6%B3%A8) 一文中提到了标识符的书写问题。我们在书写标识符时，可以不使用惯用的 `1, 2, 3 ... ` 这样的数字标识符，而是可以**使用其他字符来作为标识符** [^就像这样]。但遗憾的是，这在我的环境配置、以及 Github 下并不能奏效，生成的脚注最后还是被数字序列化了…… 不过这样书写有一个好处，就是我们**不必担心编号的顺序问题了**，Markdown 会替我们解决。*试想你如果写的时候使用数字序列编号，那你肯定会想着自己编好顺序对吧…… 这也给文档新增内容时脚注编号的处理带来了方便。*
 
 [^就像这样]: Markdown 官网 - Markdown 脚注: https://markdown.com.cn/extended-syntax/footnotes.html#markdown-%E8%84%9A%E6%B3%A8
 
