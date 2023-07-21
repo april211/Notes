@@ -226,3 +226,22 @@ The document provided **a revealing insight** into the government's *priorities*
 The writing is **workmanlike**, *if* sometimes **too casual**.
 文笔**娴熟**，*虽然*有时**过于随意**。
 
+## 2023-7-21
+
+Salary *is a function of* age and **experience**.
+工资*视乎*年龄和**经验***而定*。
+
+The **procession** made its *stately* progress through the streets of the city.
+**游行队伍***缓慢而庄严地*穿过城市的街道。
+
+*There is* **acknowledgement on his part** that he *was to blame*.
+**他承认**他*应该受到谴责*。
+
+*Growing levels of* pollution **represent** a serious *health hazard* to the local population.
+*日益严重*的污染**对**当地人民的*健康*构成了重大*威胁*。
+
+**Careless drivers** *hazard* other people's lives **as well as** their own.
+**粗心大意的驾驶者***拿*他人**和**自己的生命*冒险*。
+
+
+

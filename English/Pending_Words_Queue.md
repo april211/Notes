@@ -58,3 +58,7 @@ progress | gain | equip | damage | discern | complain | resign | govern | withdr
 
 tear | shift | dietary | apt | accomodate | companion | school | plea | locate | lack | complete | notice | silence | merit | best | furious | depict | expense | meet | recite | boost | raise | maintain | crime | admit | find | face | mere | remove | reveal | virtual | avoid | casual
 
+## 2023.7.21
+
+claim | apart | light | give | want | time | turn | tacit | warn | admission | acknowledge | remorse | regret | represent | pull | amuse | guilt 
+
