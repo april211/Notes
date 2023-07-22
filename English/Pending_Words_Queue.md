@@ -62,3 +62,8 @@ tear | shift | dietary | apt | accomodate | companion | school | plea | locate |
 
 claim | apart | light | give | want | time | turn | tacit | warn | admission | acknowledge | remorse | regret | represent | pull | amuse | guilt 
 
+## 2023.7.22
+
+practice | request | measure | carry | appall | comply | behave | pretend | decorate | reach | organize | contact | advice | recommend | suppress | resist | violent | control | ask | talk | plan | get | date | few | ruin | view | obscure | defect | achieve | assert | have | owe | retain | show | tight | effect | affect | particular | create | accept | situation | earn | become | devote | form | touch | drop | dump | set | skill | custom | piece | suppose | opinion | express | know | adjust | amend | restore | favour | think | brief | bear | obey | tell | expect | hope | examine | responsible | credit | activity | matter | habit | detail | intend | offer | provide | obtain | bill | invite | further | enjoy | buy | limit | order 
+
+

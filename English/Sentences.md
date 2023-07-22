@@ -243,5 +243,61 @@ The **procession** made its *stately* progress through the streets of the city.
 **Careless drivers** *hazard* other people's lives **as well as** their own.
 **粗心大意的驾驶者***拿*他人**和**自己的生命*冒险*。
 
+## 2023-7-22
+
+🌟 *Safety measures* were **carried out** *in compliance with* paragraph 6 of the building **regulations**.
+*遵照*建筑**规程**的第 6 条**实施**了*安全措施*。
+
+His work *suffered* because of his **total absorption in** sport.
+他**痴迷于**体育运动而*影响*了工作。
+
+🌟 Their **harmonious relationship** resulted *in part from* their **similar goals**.
+他们**融洽的关系***部分来自于*他们**相似的目标**。
+
+It is selling **very well**, *in part because* the **packaging** is so attractive.
+它卖得**非常好**，*部分原因在于***包装**很吸引人。
+
+She had started to *delve into* her father's **distant past**.
+她开始*探究*她父亲**久已逝去的岁月**。
+
+Police are *urging* **anyone who** saw the accident to *contact* them immediately.
+警方*敦促*事故的目击**者**立即与警方*联系*。
+
+If he can't *get* his talk *sorted out*, we'll **have to** ask someone else.
+如果他不能*把*自己的讲话*整理（安排）好*，我们**就得**另请他人。
+
+It was difficult to **sort out** the lies **from** the truth.
+谎言和真话难以**辨别**。
+
+The *inquest* was **adjourned** *pending* further investigations.
+*审理***暂缓**，*等候*进一步调查。
+
+That day still *stands out as the greatest* day in my life.
+那天仍是我一生中*最*美好的日子。
+
+🌟 *Owing to* circumstances **beyond our control**, the flight *to* Rome **has been cancelled**.
+*由于*出现了**我们无法控制的**情况，飞*往*罗马的航班**已被取消**。
+
+She *struggled to* **keep control of** her voice.
+她*竭力***控制住**自己的声音。
+
+She *bowed to the inevitable* (= accepted a situation in which she had no choice) and **resigned**.
+她*迫于无奈*，只得**辞职**。
+
+**In effect**, we’ll be *earning less* than we were last year.
+**实际上**，我们*挣钱*会比去年*少*。
+
+She sat **with** her *hands in her lap*.
+她双*手放在大腿上*坐着。
+
+🌟 They were *not* able to start the meeting *until* the **requisite number of members were present**.
+*直到*出席的成员**达到规定的人数**，他们*才*能开始会议。
+
+He *sniffed at* my choice of restaurants and suggested his own favorite.
+他*对*我挑选的餐馆*不以为然*，提出去他喜欢的那家。
+
+He **was invited to** *give a poetry reading* as part of the literary festival.
+他**应邀**在文学节上*表演诗朗诵*。
+
 
 
