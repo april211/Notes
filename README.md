@@ -6,12 +6,12 @@
 
 - 英语（单词、语法...）[link to English dir](https://github.com/april211/Notes/tree/master/English)
 - Linux 编程与维护（Docker、Shell、Git、Ubuntu... ）[link to Linux dir](https://github.com/april211/Notes/tree/master/Linux)
-- Java 
+- Java、Hadoop、Spark 方向
 - 数学（线性代数、概率论、矩阵论）
-- 科研随笔（机器学习、深度学习、图深度学习等） [link to Research dir](https://github.com/april211/Notes/tree/master/Research)
+- 算法随笔（机器学习、图深度学习、推荐算法、NLP 等方向） [link to Research dir](https://github.com/april211/Notes/tree/master/Research)
 - LeetCode 刷题记录
 - Markdown 学习随笔 [link to Markdown dir](https://github.com/april211/Notes/tree/master/Markdown)
-- 闲书随笔 [link to Inspirations dir](https://github.com/april211/Notes/tree/master/Inspirations)
+- 日常 [link to Inspirations dir](https://github.com/april211/Notes/tree/master/Inspirations)
 - ...
 
 大家如果在阅读过程中产生一些 ideas，或者一些问题和建议，可以开个 issue 讨论一下。后期我会尝试将这些随笔内容放在自己搭建的、或者是类似 CSDN 的网站上，这样更方便阅读和评论。
