@@ -299,5 +299,38 @@ He *sniffed at* my choice of restaurants and suggested his own favorite.
 He **was invited to** *give a poetry reading* as part of the literary festival.
 他**应邀**在文学节上*表演诗朗诵*。
 
+## 2023-7-23
 
+She **experienced a confusing mixture of emotions**.
+她**百感交集**。
+
+🌟 The discussion was about *whether* the child was old *enough to* **make an informed decision**.
+讨论的对象是孩子是否*大到可以***做出明智的决定**。
+
+🌟 **Prejudices** can easily *become implanted in the mind*.
+**偏见**容易*在头脑中扎根*。
+
+They *went through agony* in the search for their **missing relatives**.
+他们在寻找**失散亲人**的过程中*经历了极大的痛苦*。
+
+His reputation is **without a blemish**.
+他的名誉可说是**白璧无瑕**。
+
+We're *seeking for* **alternative materials** which might *bring the cost down*.
+我们*正在寻找*一种可以*降低成本*的**替代材料**。
+
+🌟 Diane had *dedicated* her life *to* caring for him **to the exclusion of** all else.
+黛安娜曾**抛开**其他一切，来*一心一意地*照顾他。
+
+He **chose to** *reciprocate* the gift *with* a sample of his own art.
+他**选择**以自己的艺术品作为对这个礼物的*回应*。
+
+ Her *passion for* him **was not reciprocated**.
+ 她*对*他*的热情***没有得到回应**。
+
+ He's that **rare breed** of politician who has *remained true to his ideals*.
+ 他是那种*一直忠于自己理想*的**稀有**政客。
+
+During the interview, she *fumbled* helplessly *for* words.
+面试时她支支吾吾*找不出*适当的话语。
 

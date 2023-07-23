@@ -66,4 +66,7 @@ claim | apart | light | give | want | time | turn | tacit | warn | admission | a
 
 practice | request | measure | carry | appall | comply | behave | pretend | decorate | reach | organize | contact | advice | recommend | suppress | resist | violent | control | ask | talk | plan | get | date | few | ruin | view | obscure | defect | achieve | assert | have | owe | retain | show | tight | effect | affect | particular | create | accept | situation | earn | become | devote | form | touch | drop | dump | set | skill | custom | piece | suppose | opinion | express | know | adjust | amend | restore | favour | think | brief | bear | obey | tell | expect | hope | examine | responsible | credit | activity | matter | habit | detail | intend | offer | provide | obtain | bill | invite | further | enjoy | buy | limit | order 
 
+## 2023.7.23
+
+discuss | choice | develop | start | deal | endure | suffer | intense | extend | operate | operation | plough | destroy | fumble | severe | criticize | establish | attempt | let | dedicate | rational | keep | stop | sound | tense | look | flow | away | state | feel | remark | therefore | remain | catch | invent | instruct | revolt | demand | drive | last | exchange | greet | help | mind | wonder | reduce 
 
