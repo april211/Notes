@@ -70,3 +70,7 @@ practice | request | measure | carry | appall | comply | behave | pretend | deco
 
 discuss | choice | develop | start | deal | endure | suffer | intense | extend | operate | operation | plough | destroy | fumble | severe | criticize | establish | attempt | let | dedicate | rational | keep | stop | sound | tense | look | flow | away | state | feel | remark | therefore | remain | catch | invent | instruct | revolt | demand | drive | last | exchange | greet | help | mind | wonder | reduce 
 
+## 2023.7.24
+
+regular | entire | shame | sheer | perform | kill | design | compare | increase | conflict | settle | make | perform | attend | value | remind | arrange | accuse | allow | stay | act | impose | moral | refer | aspect | process | separate | detect | argue | hold
+

@@ -325,12 +325,35 @@ We're *seeking for* **alternative materials** which might *bring the cost down*.
 He **chose to** *reciprocate* the gift *with* a sample of his own art.
 他**选择**以自己的艺术品作为对这个礼物的*回应*。
 
- Her *passion for* him **was not reciprocated**.
- 她*对*他*的热情***没有得到回应**。
+Her *passion for* him **was not reciprocated**.
+她*对*他*的热情***没有得到回应**。
 
- He's that **rare breed** of politician who has *remained true to his ideals*.
- 他是那种*一直忠于自己理想*的**稀有**政客。
+He's that **rare breed** of politician who has *remained true to his ideals*.
+他是那种*一直忠于自己理想*的**稀有**政客。
 
 During the interview, she *fumbled* helplessly *for* words.
 面试时她支支吾吾*找不出*适当的话语。
+
+## 2023-7-24
+
+The British government **ended up underwriting** the entire project.
+**结果**整个项目的费用都由英国政府**承担**。
+
+They *interceded with* the authorities *on behalf of* the **detainees**.
+他们*为***被拘留者**向当局*求情*。
+
+These examples **are directly pertinent to** the question asked.
+这些例子与提出的问题**直接相关**。
+
+Most of them *led lives of* selfless moral **rectitude**.
+他们大多数人*过着*无私的道德**正直***的生活*。
+
+He **cherishes the hope that** one day they will meet again.
+他**希望**他们有一天能再次见面。
+
+🌟 She *gives the impression of* being **rather** conventional, but *under the surface* she is **wildly** eccentric.
+她*给人印象***很**传统，*实际上*却是个**极**不寻常的人。
+
+It *seems* like a good idea *on the surface* but there **are sure to** be problems.
+这主意*乍一看*不错，但**肯定**存在问题。
 

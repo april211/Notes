@@ -248,4 +248,246 @@ a good/​a slim/​a slender/​an hourglass figure
 
 be of slim/​medium/​average/​large/​athletic/​stocky build有着苗条的／中等的／普通的／大块头的／健壮的／矮壮的身材
 
+## Unemployment失业
+
+### Losing your job失业
+
+lose your job失业
+
+(British English) become/​be made redundant被裁减
+
+be offered/​take voluntary redundancy/​early retirement被要求／选择自愿裁退／提前退休
+
+face/​be threatened with dismissal/(British English) the sack/(British English) compulsory redundancy面临被解职／被裁／强制裁员；受到解职／被裁／强制裁员的威胁
+
+dismiss/​fire/ (especially British English) sack an employee/​a worker/​a manager解雇雇员／工人／经理
+
+lay off staff/​workers/​employees解雇员工／工人／雇员
+
+(Australian English, New Zealand English, South African English) retrench workers缩减人员
+
+cut/​reduce/​downsize/​slash the workforce裁减员工
+
+(British English) make staff/​workers/​employees redundant裁员
+
+### Being unemployed失业；待业；下岗
+
+be unemployed/​out of work/​out of a job失业
+
+seek/​look for work/​employment找工作
+
+be on/​collect/​draw/​get/​receive (both British English) unemployment benefit/​jobseeker’s allowance领取失业补助金
+
+be/​go/​live/​sign (British English, informal) on the dole领取失业救济金
+
+claim/​draw/​get (British English, informal) the dole领取失业救济金
+
+be on/​qualify for (North American English) unemployment (compensation)领取／有资格领取失业补偿金
+
+be/​go/​live/​depend (North American English) on welfare靠社会保障金过活
+
+collect/​receive (North American English) welfare领取社会保障金
+
+combat/​tackle/​cut/​reduce unemployment防止／解决／减少失业
+
+## Criminal justice刑事审判
+
+### Breaking the law犯法
+
+break/​violate/​obey/​uphold the law违反／违背／遵守／维护法律
+
+be investigated/​arrested/​tried for a crime/​a robbery/​fraud因犯罪／抢劫／诈骗而被调查／逮捕／审判
+
+be arrested/ (especially North American English) indicted/​convicted on charges of rape/​fraud/(especially US English) felony charges因被控犯强奸罪／诈骗罪／重型罪遭逮捕／起诉／定罪
+
+be arrested on suspicion of arson/​robbery/​shoplifting因涉嫌纵火／抢劫／在商店行窃而被逮捕
+
+be accused of/​be charged with murder/(especially North American English) homicide/​four counts of fraud被指控犯有谋杀罪／杀人罪／四项诈骗罪
+
+face two charges of indecent assault面临两项猥亵罪的指控
+
+admit your guilt/​liability/​responsibility (for something)承认（对某事的）罪责／责任
+
+deny the allegations/​claims/​charges否认指控
+
+confess to a crime坦白罪行
+
+grant/​be refused/​be released on/​skip/​jump bail准许／不准保释；交保释金获释；弃保潜逃
+
+The legal process法律程序
+
+stand/​await/​bring somebody to/​come to/​be on trial受审；候审；把某人送交法院审判；开庭审理；受到审判
+
+take somebody to/​come to/​settle something out of court把某人告上法庭；被法庭受理；庭外和解某事
+
+face/​avoid/​escape prosecution面临／免于／逃脱起诉
+
+seek/​retain/​have the right to/​be denied access to legal counsel寻求／聘请／有权聘用／无权聘用律师
+
+hold/​conduct/​attend/​adjourn a hearing/​trial开庭；出庭；休庭
+
+sit on/​influence/​persuade/​convince the jury担任／影响／说服陪审团
+
+sit/​stand/​appear/​be put/​place somebody in the dock坐在／站在／出现在／被送上／将某人送上被告席
+
+plead guilty/​not guilty to a crime认罪；不认罪
+
+be called to/​enter (British English) the witness box被召唤进入／进入证人席
+
+take/​put somebody on the stand/(North American English) the witness stand出庭作证；让某人出庭作证
+
+call/​subpoena/​question/​cross-examine a witness传唤／以传票传唤／讯问／盘问证人
+
+give/​hear the evidence against/​on behalf of somebody提供／听取对某人不利／有利的证据
+
+raise/​withdraw/​overrule an objection提出／撤销／否决异议
+
+reach a unanimous/​majority verdict作出一致的／多数人赞同的裁决
+
+return/​deliver/​record a verdict of not guilty/​unlawful killing/​accidental death作出／宣布无罪／非法杀人／意外死亡的裁决
+
+convict/​acquit the defendant of the crime宣判被告有罪／无罪
+
+secure a conviction/​your acquittal获得有罪／无罪判决
+
+lodge/​file an appeal提出上诉
+
+appeal (against)/challenge/​uphold/​overturn a conviction/​verdict对判决／裁决提出上诉／质疑；维持／撤销判决／裁决
+
+Sentencing and punishment判刑与惩罚
+
+pass sentence on somebody宣布对某人的判决
+
+carry/​face/​serve a seven-year/​life sentence会被判处／面临／服七年徒刑／无期徒刑
+
+receive/​be given the death penalty被判死刑
+
+be sentenced to ten years (in prison/​jail)被判十年（监禁）
+
+carry/​impose/​pay a fine (of $3 000)/a penalty (of 14 years imprisonment)会被判处／处以／缴纳（3 000 美元的）罚金／（14 年的）监禁
+
+be imprisoned/​jailed for drug possession/​fraud/​murder因持有毒品罪／诈骗罪／谋杀罪被监禁
+
+do/​serve time/​ten years服刑；服十年徒刑
+
+be sent to/​put somebody in/​be released from jail/​prison被送进监狱；把某人送进监狱；被释放出狱
+
+be/​put somebody/​spend X years on death row在／把某人关在死囚牢房；在死囚牢房度过…年
+
+be granted/​be denied/​break (your) parole获准假释；假释遭拒；违反假释规定
+
+## War and peace战争与和平
+
+### Starting a war开战
+
+declare/​make/​wage war (on somebody/​something)（向…）宣战／挑起战争／发动战争
+
+go to war (against/​with somebody)（向…）开战
+
+cause/​spark/​provoke/​foment/​quell unrest引起／平息骚乱
+
+incite/​lead/​crush/​suppress a revolt/​rebellion煽动／领导／镇压起义／叛乱
+
+launch/​mount/​carry out a surprise/​terrorist attack发起／实施突然／恐怖袭击
+
+prevent/​halt/​represent an escalation of the conflict防止／阻止／表明冲突升级
+
+be torn apart by/​be on the brink of civil war被内战搞得四分五裂；濒于内战
+
+enter/​invade/​occupy somebody’s territory进入／侵略／占领某人的领土
+
+lead/​launch/​resist/​repel an invasion领导／发起／抵制／击退武装入侵
+
+### Military operations军事行动
+
+adopt/​develop/​implement/​pursue a military strategy采用／发展／实施／执行军事战略
+
+carry out/​execute/​perform military operations/​manoeuvres
+
+send/​deploy/​station/​pull back/​withdraw troops派遣／部署／派驻／撤回部队
+
+go on/​fly/​carry out a reconnaissance/​rescue mission进行／驾机执行／执行侦察／营救任务
+
+train/​equip/​deploy army/​military/​combat units训练／装备／部署陆军／军事／作战分队
+
+lead/​launch/​conduct a raid/​a surprise attack/​an (air/​airborne/​amphibious) assault (on somebody)领导／发起／实施（对某人的）突然袭击／（空中／空投部队／登陆）攻击
+
+employ/​use guerrilla tactics采用游击战术
+
+conduct/​wage biological/​guerrilla warfare进行／发动生物战／游击战
+
+fight/​crush/​defeat the rebels/​the insurgency设法战胜／镇压／挫败叛乱者／叛乱
+
+suffer/​inflict a crushing defeat遭受惨败；大获全胜
+
+achieve/​win a decisive victory赢得决定性的胜利
+
+halt/​stop the British/​German/​Russian advance阻止英国／德国／俄罗斯的前进
+
+order/​force a retreat命令／强迫撤退
+
+### Fighting作战
+
+join/​serve in the army/​navy/​air force加入陆军／海军／空军；在陆军／海军／空军部队服役
+
+be/​go/​remain/​serve on active duty在服现役
+
+serve/​complete/​return from a tour of duty在服役；服役完毕；服役归来
+
+be sent to the front (line)被派往前线
+
+attack/​strike/​engage/​defeat/​kill/​destroy the enemy袭击／攻击敌人；与敌人交战；击败／杀死／消灭敌人
+
+see/​report/​be engaged in heavy fighting目睹／报道／参与激战
+
+call for/​be met with armed resistance要求／遭遇武装抵抗
+
+come under heavy/​machine-gun/​mortar fire冒着激烈的／机关枪的／迫击炮的射击
+
+fire a machine-gun/​mortar shells/​rockets (at somebody/​something)（对…）发射机关枪／迫击炮弹／火箭弹
+
+shoot a rifle/​a pistol/​bullets/​missiles步枪／手枪射击；发射子弹／导弹
+
+launch/​fire a cruise/​ballistic/​anti-tank missile发射巡航／弹道／反坦克导弹
+
+use biological/​chemical/​nuclear weapons使用生物／化学／核武器
+
+inflict/​suffer/​sustain heavy losses/​casualties遭受惨重损失／伤亡
+
+be hit/​killed by enemy/​friendly/​artillery fire被敌军／友军／炮火击中／射死
+
+become/​be held as a prisoner of war成为战俘；作为战俘被监禁
+
+### Civilians in war战争中的平民
+
+harm/​kill/​target/​protect innocent/​unarmed civilians伤害／杀死／瞄准／保护无辜的／手无寸铁的平民
+
+cause/​avoid/​limit/​minimize civilian casualties/​collateral damage导致／避免／限制／最大限度减少平民伤亡／附带性破坏
+
+impose/​enforce/​lift a curfew强制实行／解除宵禁
+
+engage in/​be a victim of ethnic cleansing参与种族清洗；成为种族清洗的受害者
+
+be sent to an internment/​a concentration camp被送到俘虏拘留营／集中营
+
+accept/​house/​resettle refugees fleeing from war接受／收容／安置战争难民
+
+fear/​threaten military/​violent reprisals害怕／扬言要军事／暴力报复
+
+commit/​be accused of war crimes/​crimes against humanity/​genocide犯／被指控犯战争罪／反人类罪／种族灭绝罪
+
+### Making peace和解
+
+make/​bring/​win/​achieve/​maintain/​promote peace促使／带来／赢得／实现／保持／促进和平
+
+call for/​negotiate/​broker/​declare a ceasefire/​a temporary truce要求／商谈／协商／宣布停战／暂时休战
+sign a ceasefire agreement签署停战协议
+
+call for/​bring/​put an end to hostilities要求发动／引发／结束战争
+
+demand/​negotiate/​accept the surrender of somebody/​something强烈要求／商讨／接受…投降
+
+establish/​send (in) a peacekeeping force建立／派遣维和部队
+
+negotiate/​conclude/​ratify/​sign/​accept/​reject/​break/​violate a peace treaty商讨／达成／正式批准／签署／接受／拒绝／破坏／违反和平协定
 
