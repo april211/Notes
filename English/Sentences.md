@@ -357,3 +357,25 @@ He **cherishes the hope that** one day they will meet again.
 It *seems* like a good idea *on the surface* but there **are sure to** be problems.
 这主意*乍一看*不错，但**肯定**存在问题。
 
+## 2023-7-25
+
+She didn't know *what* **life in a foreign country** *would be like*.
+她不知道**外国的生活***会是什么样*。
+
+The information has **come from** reliable sources *external to* the government.
+这些信息**来自**政府*外部的*可靠来源。
+
+Many *external influences* can **affect** your *state of mind*.
+许多*外在因素*都可能**影响**人的*心情*。
+
+*The whole* concept of responsibility *was alien to* him.
+他*没有一点儿*责任的概念。
+
+Students must be able to *apply* classroom concepts *to* **practical situations**.
+学生必须能够*把*课堂中学到的概念*运用到***实际**中去。
+
+## 2023-7-26
+
+*I found* the temptation to miss the class *too hard to resist*.
+我*抵挡不住*逃课的诱惑。
+

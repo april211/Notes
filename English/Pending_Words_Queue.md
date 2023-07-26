@@ -74,3 +74,11 @@ discuss | choice | develop | start | deal | endure | suffer | intense | extend |
 
 regular | entire | shame | sheer | perform | kill | design | compare | increase | conflict | settle | make | perform | attend | value | remind | arrange | accuse | allow | stay | act | impose | moral | refer | aspect | process | separate | detect | argue | hold
 
+## 2023.7.25
+
+throw | verify | bound | lift | sensible 
+
+## 2023.7.26
+
+undergo | understand 
+

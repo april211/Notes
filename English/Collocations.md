@@ -491,3 +491,93 @@ establish/​send (in) a peacekeeping force建立／派遣维和部队
 
 negotiate/​conclude/​ratify/​sign/​accept/​reject/​break/​violate a peace treaty商讨／达成／正式批准／签署／接受／拒绝／破坏／违反和平协定
 
+## International relations国际关系
+
+### Trade贸易
+
+facilitate/​regulate trade (with other countries)促进／规范（与其他国家的）贸易
+
+form/​join a trading bloc建立／加入贸易同盟
+
+live in/​compete in a global/​the world economy生存于全球／世界经济中；参与全球／世界经济竞争
+
+support/​promote free trade支持／促进自由贸易
+
+adopt/​call for/​oppose protectionist measures采取／呼吁／反对保护主义措施
+
+erect/​impose/​reduce/​remove trade barriers设置／推行／减少／消除贸易壁垒
+
+impose/​lift/​raise/​eliminate import tariffs (on something)征收／取消／提高／废除（某物的）进口关税
+
+have/​run a huge/​large/​growing trade surplus/​deficit有巨额／持续增长的贸易顺差／逆差
+
+embrace/​resist/​drive globalization接受／抵制／推进全球化
+
+### Politics and law政治与法律
+
+conduct/​handle/​talk about/​discuss foreign policy执行／掌控／谈论／讨论外交政策
+
+pursue an aggressive/​a hawkish foreign policy执行强硬的外交政策
+
+require/​use/​conduct diplomacy需要／使用／实施外交手段
+
+establish/​break off/​sever/​restore diplomatic relations建立／中断／断绝／恢复外交关系
+
+foster/​promote/​strengthen regional cooperation促进地区间合作
+
+facilitate/​achieve economic/​political integration促进／实现经济／政治一体化
+
+exercise/​defend/​protect/​transfer/​restore/​regain national/​state/​full/​limited sovereignty行使／维护／保护／移交／恢复／重获民族／国家／全部／部分主权
+
+consolidate/​extend/​lose/​retain your power (in the region)巩固／扩张／丧失／保持（区域内的）势力
+
+hold/​maintain/​change/​alter/​shift/​be a shift in the balance of power (in the region)维持／改变（区域内的）势力均衡
+
+cause/​create/​open/​expose/​heal/​repair a deep/​growing/​major/​serious rift between X and Y导致／造成／引发／暴露出／弥合／修复 X 与 Y 之间深层次的／不断扩大的／主要的／严重的分歧
+
+### Meetings and agreements会议与协议
+
+have/​hold/​host/​attend an international conference/​an economic forum/​a G20 summit召开／举行／主办／出席国际会议／经济论坛／二十国集团峰会
+
+launch a new round of global/​multilateral/​world trade negotiations发起新一轮的全球／多边／世界贸易谈判
+
+send/​head/​lead/​meet a high-level/​an official/​a trade delegation派遣／领导／带领／会见高层／官方／贸易代表团
+
+begin/​start/​continue/​resume peace talks开始／继续／重启和平谈判
+
+be committed to/​be opposed to/​disrupt/​undermine/​derail/​sabotage the peace process致力于／反对／扰乱／损害／干扰／破坏和平进程
+
+negotiate/​achieve a lasting political settlement达成／取得长期的政治协议
+
+broker/​sign a peace deal/​agreement/​treaty协商／签署和平协议
+
+### Conflict冲突
+
+be/​constitute/​pose a threat to global security构成对全球安全的一大威胁
+
+compromise/​endanger/​protect national security损害／危及／保护国家安全
+
+justify/​be in favour of/ (US English) be in favor of/​be against military intervention证明军事干预合理；支持／反对军事干预
+
+threaten/​authorize/​launch/​take/​support/​oppose unilateral/​pre-emptive military action扬言采取／授权使用／发起／采取／支持／反对单边的／先发制人的军事行动
+
+impose/​enforce/​lift/​end economic sanctions/​an arms embargo/​a naval blockade强制实行／解除经济制裁／武器禁运／海上封锁
+
+close/​protect/​secure/​patrol the border封锁／保卫边境；在边境地区巡逻
+
+lead/​be involved in a peacekeeping operation领导／参与维和行动
+
+### Aid援助
+
+negotiate/​announce a $15 billion aid package/​an economic stimulus package达成／宣布 150 亿美元的一套援助计划／刺激经济的一揽子计划
+
+send/​provide/​request/​cut off military aid派遣／提供／请求／中断军事援助
+
+bring/​provide emergency/​humanitarian relief带来／提供紧急／人道主义救助
+
+deliver/​distribute medical supplies/(British English) food parcels/(North American English)food packages
+
+fund/​run a foreign/​a local/​an international NGO资助／管理外国／当地／国际非政府组织
+
+reduce/​eradicate child/​global/​world poverty减少／根除儿童／全球性／世界性贫困
+
