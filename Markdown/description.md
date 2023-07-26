@@ -16,6 +16,8 @@
 
 而对于 Markdown 的基础语法，本随笔则会无一例外地进行学习，但是**并不会像官网教程一样列举一个知识点的所有的实现方法**。读者若对这些感兴趣，或者是在学习中遇到遗忘的、依赖于自身配置的知识点，可以从下方的 [参考资料](./description.md#参考资料及常用工具) 中找找看，或者灵活地使用中英文搜索引擎进行查询。
 
+**要记住**：学习 Markdown 语法通常是为了方便我们便捷地书写笔记。学习时不要沉迷于各家不同的语法，在快速上手后，将本随笔作为语法速查手册更科学合理。
+
 具体安排如下：
 
 0. [ex0](./ex0.md): 标题分级、粗斜体格式控制、普通段落控制、引用段落控制、空白符语法
@@ -25,7 +27,7 @@
 4. [ex4](./ex4.md): 转义字符语法、自动转义
 5. [ex5](./ex5.md): 表格语法（手动维护、自动生成）
 6. [ex6](./ex6.md): 术语定义列表、任务清单列表、Emoji 表情的使用方法
-7. [ex7](./ex7.md): 句段折叠语法
+7. [ex7](./ex7.md): 句段折叠语法、`LaTex` 数学公式语法
 
 ## 我的环境配置
 
@@ -38,10 +40,11 @@
 - [Markdown 官方教程 - 中文](https://markdown.com.cn/)
 - [Markdown 官方教程 - 英文](https://www.markdownguide.org/)
 - [Markdown Preview Enhanced - 官方文档](https://shd101wyy.github.io/markdown-preview-enhanced/#/)
-- [Github Docs - Basic writing and formatting syntax，使用 Github 渲染的需要看一下](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Github Docs - Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)，使用 Github 渲染的需要看一下
+- [Github Docs - Working With Advanced Formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting)，后半部分有一些使用 Github 时的特殊语法知识，有利于你更优雅地使用 Github 的相关功能
 - [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
-- [Markdown Guide - Tools，你可以在这查询很多软件的特性](https://www.markdownguide.org/tools/)
-- [Emojipedia，你可以在这里查询想要的 Emoji 表情](https://emojipedia.org/)
+- [Markdown Guide - Tools](https://www.markdownguide.org/tools/)，你可以在这查询很多 Markdown 软件的特性
+- [Emojipedia](https://emojipedia.org/)，你可以在这里查询想要的 Emoji 表情
 - [Github - Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 - 其他网络资源（例如博客等，已经尽量在使用位置注明）
 
