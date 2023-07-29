@@ -82,3 +82,15 @@ throw | verify | bound | lift | sensible
 
 undergo | understand 
 
+## 2023.7.27
+
+deprive | hinder | appeal | tolerate | aim 
+
+## 2023.7.28
+
+due | vanish | embark 
+
+## 2023.7.29
+
+expand | soon | entitle | live | pour | transform | sell | regard | take 
+

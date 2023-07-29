@@ -379,3 +379,57 @@ Students must be able to *apply* classroom concepts *to* **practical situations*
 *I found* the temptation to miss the class *too hard to resist*.
 我*抵挡不住*逃课的诱惑。
 
+## 2023-7-27
+
+He *was esteemed as* a **dedicated** and **imaginative** scholar.
+他*被认为是*一位**敬业**且**富有想象力**的学者。
+
+*But for* these interruptions, the meeting **would have finished earlier**.
+*要不是*几次被打断，会议**早就开完了**。
+
+## 2023-7-28
+
+He became acutely **conscious of** having *failed* his parents.
+他深深**感到**自己*辜负了*父母的期望。
+
+## 2023-7-29
+
+Our *immediate concern* is to help **the families of those who died**.
+我们的*当务之急*是帮助那些**死者的亲属**。
+
+This plan is *without controversy* the best. We must **make a careful study of** it.
+这个计划*无可争辩地*是最好的，我们必须**仔细研究**（它）。
+
+*It* is five cubic meters *in volume*.
+*体积*是 5 立方米。
+
+*It* will be useless *learning a theory without practice*.
+*学习理论而没有实践*是无用的。
+
+May I *take it* **that** you will write me a letter?
+我可以*相信*你会给我写信吧？
+
+Don't worry. I'll *see to it* **that** you will get your share.
+别着急，我一定*保证*使你获得你名下的份额。
+
+*It was* the soldiers *who* **saved** many people **from** drowning in 1998.
+在 1998 年*正是这些*战士**拯救了**许多人**免于**淹死。
+
+*It was* the mobile phone *which (that)* I bought in Tianjin.
+那时我在天津买的*正是*这个移动电话。
+
+*It is* **because** English is very useful *that* we sdudy it hard.
+*正***因为**英语很有用，我们*才*努力学习（英语）。
+
+*It was* **while** reading her letter *that* I had the idea that I was going to visit her the next day.
+*正是*在读她的来信时，我萌发了第二天就去访问她的念头。
+
+*It was not until (till)* the teacher came *that* they began the test.
+*直到*老师来了以后，他们*才*开始做这个实验。
+
+I wonder *who* **it was** *(that)* first called computers electronic brains.
+我不知道*谁*首先把计算机叫做电脑。
+
+*It is a wise* man *that* never makes mistakes.
+*无论怎样聪明的人，也难免要犯错误。*
+
