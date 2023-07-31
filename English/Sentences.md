@@ -371,7 +371,7 @@ Many *external influences* can **affect** your *state of mind*.
 *The whole* concept of responsibility *was alien to* him.
 他*没有一点儿*责任的概念。
 
-Students must be able to *apply* classroom concepts *to* **practical situations**.
+🌟 Students must be able to *apply* classroom concepts *to* **practical situations**.
 学生必须能够*把*课堂中学到的概念*运用到***实际**中去。
 
 ## 2023-7-26
@@ -384,12 +384,12 @@ Students must be able to *apply* classroom concepts *to* **practical situations*
 He *was esteemed as* a **dedicated** and **imaginative** scholar.
 他*被认为是*一位**敬业**且**富有想象力**的学者。
 
-*But for* these interruptions, the meeting **would have finished earlier**.
+🌟 *But for* these interruptions, the meeting **would have finished earlier**.
 *要不是*几次被打断，会议**早就开完了**。
 
 ## 2023-7-28
 
-He became acutely **conscious of** having *failed* his parents.
+🌟 He became acutely **conscious of** having *failed* his parents.
 他深深**感到**自己*辜负了*父母的期望。
 
 ## 2023-7-29
@@ -403,7 +403,7 @@ This plan is *without controversy* the best. We must **make a careful study of**
 *It* is five cubic meters *in volume*.
 *体积*是 5 立方米。
 
-*It* will be useless *learning a theory without practice*.
+🌟 *It* will be useless *learning a theory without practice*.
 *学习理论而没有实践*是无用的。
 
 May I *take it* **that** you will write me a letter?
@@ -418,13 +418,13 @@ Don't worry. I'll *see to it* **that** you will get your share.
 *It was* the mobile phone *which (that)* I bought in Tianjin.
 那时我在天津买的*正是*这个移动电话。
 
-*It is* **because** English is very useful *that* we sdudy it hard.
+🌟 *It is* **because** English is very useful *that* we sdudy it hard.
 *正***因为**英语很有用，我们*才*努力学习（英语）。
 
 *It was* **while** reading her letter *that* I had the idea that I was going to visit her the next day.
 *正是*在读她的来信时，我萌发了第二天就去访问她的念头。
 
-*It was not until (till)* the teacher came *that* they began the test.
+🌟 *It was not until (till)* the teacher came *that* they began the test.
 *直到*老师来了以后，他们*才*开始做这个实验。
 
 I wonder *who* **it was** *(that)* first called computers electronic brains.
@@ -432,4 +432,35 @@ I wonder *who* **it was** *(that)* first called computers electronic brains.
 
 *It is a wise* man *that* never makes mistakes.
 *无论怎样聪明的人，也难免要犯错误。*
+
+## 2023-7-30
+
+🌟 The long-range goal *must be to* **do away with** nuclear weapons *altogether*.
+长远目标*一定是***销毁***所有的*核武器。
+
+*See that* all the doors are locked before you leave.
+一定要*确保*所有的门都锁好了再走。
+
+🌟 The encouragement of her friend *saw* her *through* her **depression**.
+朋友的鼓励*帮*他*度过*了那段**消沉的时光**。
+
+We were **not altogether sure** that the comet would miss the Earth.
+我们**不太确定**这颗彗星是否会错过地球。
+
+🌟 Imagination *raises* a man *above* the **humdrum** of life.
+想象使人*从***单调无聊的**生活*中解脱*出来。
+
+## 2023-7-31
+
+I can't **take all the credit for** the show's success——it was *a team effort*.
+演出成功不能**都算**我一个人**的功劳**，这是*集体努力的结果*。
+
+🌟 *It is* less important *for me to track my weight each week*.
+每周追踪体重*对我来说没那么重要*。（动词不定式复合结构）
+
+The **finest eloquence** is *that which* gets things done.
+**最好的雄辩**是把事情做成。
+
+🌟 But there are **few** places *where* clients **have more grounds for** complaint than America.
+但是，**几乎没有***哪个*国家的委托人比美国的委托人**更有理由**抱怨。
 

@@ -94,3 +94,11 @@ due | vanish | embark
 
 expand | soon | entitle | live | pour | transform | sell | regard | take 
 
+## 2023.7.30
+
+promote | facilitate | cover | resent | sweep | vary | differ | stand | prevent | inform | awkward 
+
+## 2023.7.31
+
+assess | permit | object | grant 
+
