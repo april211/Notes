@@ -102,3 +102,16 @@ promote | facilitate | cover | resent | sweep | vary | differ | stand | prevent 
 
 assess | permit | object | grant 
 
+## 2023.8.1
+
+assign | disclaim | deny | remind | rather | dispose | imply | enable | rise | speak 
+
+## 2023.8.2
+
+spare | engage | content 
+
+## 2023.8.3
+
+assault | contribute | improve | embrace | allege | exert | work | tend | prove | persuade | explain | repeal | significant | introduce | pass | ban | anticipate | 
+
+

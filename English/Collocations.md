@@ -581,3 +581,69 @@ fund/​run a foreign/​a local/​an international NGO资助／管理外国／
 
 reduce/​eradicate child/​global/​world poverty减少／根除儿童／全球性／世界性贫困
 
+## Crime犯罪
+
+### Committing a crime犯罪
+
+commit a crime/​a murder/​a violent assault/​a brutal killing/​an armed robbery/​fraud犯罪／谋杀罪／暴力侵犯他人身体罪／残杀罪／持械抢劫罪／诈骗罪
+
+be involved in terrorism/​a suspected arson attack/​people smuggling/​human trafficking参与恐怖主义活动；涉嫌纵火袭击；参与人口走私／人口贩卖
+
+engage/​participate in criminal activity/​illegal practices/​acts of mindless vandalism参与犯罪活动／非法活动／愚昧的故意毁坏他人财产的行为
+
+steal somebody’s wallet/​purse/(British English) mobile phone/(North American English) cell phone偷某人的钱包／手机
+
+rob a bank/​a person/​a tourist抢劫银行／他人／游客
+
+break into/ (British English) burgle/ (North American English) burglarize a house/​a home/​an apartment入室盗窃
+
+hijack a plane/​ship/​bus劫持飞机／轮船／公共汽车
+
+smuggle drugs/​weapons/​arms/​immigrants走私毒品／武器／军火；偷运移民
+
+launder drug money (through something)（通过…）洗毒资
+
+forge documents/​certificates/​passports伪造文件／证件／护照
+
+take/​accept/​pay somebody/​offer (somebody) a bribe索取／收受贿赂；向（某人）行贿
+
+run a phishing/​an email/​an internet scam进行网络钓鱼／电子邮件／互联网诈骗
+
+### Fighting crime打击犯罪
+
+combat/​fight crime/​terrorism/​corruption/​drug trafficking打击犯罪／恐怖主义／腐败／贩毒
+
+prevent/​stop credit-card fraud/​child abuse/​software piracy防止／阻止信用卡诈骗／虐待儿童／软件盗版
+
+deter/​stop criminals/​burglars/​thieves/​shoplifters/​vandals威慑／阻止犯罪分子／入室盗窃者／小偷／商店扒手／故意破坏公物者
+
+reduce/​tackle/​crack down on knife/​gun/​violent/​street crime; (especially British English) antisocial behaviour减少／处理／严厉打击持刀／持枪／暴力／街头犯罪／反社会行为
+
+foil a bank raid/​a terrorist plot挫败一起银行抢劫案／一次恐怖分子的阴谋
+
+help/​support/​protect the victims of crime帮助／支持／保护犯罪活动的受害者
+
+### Investigating crime调查犯罪活动
+
+report a crime/​a theft/​a rape/​an attack/(especially British English) an incident to the police向警方举报不法行为／偷窃案／强奸案／袭击事件／暴力事件
+
+witness the crime/​attack/​murder/​incident目击犯罪／袭击／谋杀／暴力事件
+
+investigate a murder/(especially North American English) a homicide/​a burglary/​a robbery/​the alleged incident调查谋杀案／蓄意杀人案／入室盗窃案／抢劫案／涉嫌的暴力事件
+
+conduct/​launch/​pursue an investigation (into…); (especially British English) a police/​murder inquiry进行／开始／继续（对…的）调查／警方调查／谋杀案调查
+
+investigate/​reopen a criminal/​murder case调查／重新审理犯罪／谋杀案件
+
+examine/​investigate/​find fingerprints at the crime scene/​the scene of crime仔细检查／调查／查找犯罪现场的指纹
+
+collect/​gather forensic evidence收集法医证据
+
+uncover new evidence/​a fraud/​a scam/​a plot/​a conspiracy/​political corruption/​a cache of weapons发现新证据／诈骗／欺诈／密谋／阴谋／政治腐败／私藏武器
+
+describe/​identify a suspect/​the culprit/​the perpetrator/​the assailant/​the attacker描述／指认嫌疑犯／罪犯／作恶者／攻击者／袭击者
+
+question/​interrogate a suspect/​witness询问嫌疑人／目击证人
+
+solve/​crack the case破案
+

@@ -464,3 +464,22 @@ The **finest eloquence** is *that which* gets things done.
 🌟 But there are **few** places *where* clients **have more grounds for** complaint than America.
 但是，**几乎没有***哪个*国家的委托人比美国的委托人**更有理由**抱怨。
 
+## 2023-8-1
+
+We must *adapt* our thinking *to* the **changed** conditions. 
+我们必须*使*我们的思想*适应***改变了的**情况。
+
+🌟 **Large sections of** the potential audience *seemed indisposed* to attend.
+**大部分**潜在的听众*似乎不愿*出席。
+
+The entire production **evinces** authenticity and *a real respect for* the subject matter.
+整个作品**显示了**真实性和*对*主题*的真正尊重*。
+
+## 2023-8-3
+
+*The more* I **anticipated arriving somewhere**, *the more* disappointed I was.
+我*越***期盼在某方面有所成就**，*就越*失望。
+
+We **eagerly** *anticipated* the day we would leave school.
+我们**迫切地***期盼着*毕业离校的那一天。
+
