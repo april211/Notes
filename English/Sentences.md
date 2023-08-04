@@ -483,3 +483,12 @@ The entire production **evinces** authenticity and *a real respect for* the subj
 We **eagerly** *anticipated* the day we would leave school.
 我们**迫切地***期盼着*毕业离校的那一天。
 
+## 2023-8-4
+
+She finally agreed to *have* **the wretched animal** *put down*.
+她最后同意*把***这只可怜的动物***杀死*。
+
+*There is a limit to* what one person can **tolerate**.
+一个人的**容忍***是有限度的*。
+
+
