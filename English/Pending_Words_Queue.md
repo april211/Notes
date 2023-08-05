@@ -118,3 +118,7 @@ assault | contribute | improve | embrace | allege | exert | work | tend | prove 
 
 demonstrate | ready | call | devide | blame | receive | suspect | happen | fix | fit | test | miss | little | mistake | confuse | injure | put | play | experience | cut | ease | smile | realize | exist | business | use | remember | effort | draw | wear | around | taste | believe | answer | reply | open | feature | cancel | attach | solicit | admire | rip | teach | fabricate | lose | deliver | resort 
 
+## 2023.8.5
+
+keen | spread | perform | spend | treat | renovate | discharge | rush | begin | share | free | slide | judge | rely | conquer | prefer | beyond | grow | exercise | invest | elaborate | 
+

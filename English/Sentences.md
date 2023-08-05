@@ -491,4 +491,14 @@ She finally agreed to *have* **the wretched animal** *put down*.
 *There is a limit to* what one person can **tolerate**.
 一个人的**容忍***是有限度的*。
 
+## 2023-8-5
+
+**When** the doors **opened**, *there was* a mad dash *for* seats.
+门**一**开，人们**便**疯狂地朝座位奔去。
+
+The new management *intends to institute* **a number of** changes.
+新任管理层*打算实行***一些**改革。
+
+*All attempts to* **deflect** attention **from** his private life *have failed*.
+本想**转移**人们对他私生活的注意，但*一切努力都失败了*。
 
