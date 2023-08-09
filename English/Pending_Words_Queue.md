@@ -122,3 +122,19 @@ demonstrate | ready | call | devide | blame | receive | suspect | happen | fix |
 
 keen | spread | perform | spend | treat | renovate | discharge | rush | begin | share | free | slide | judge | rely | conquer | prefer | beyond | grow | exercise | invest | elaborate | 
 
+## 2023.8.6
+
+forbid | conspire | mention | pay 
+
+## 2023.8.7
+
+recur | burn | continue | impact | strike | replace 
+
+## 2023.8.8
+
+imagine 
+
+## 2023.8.9
+
+offend 
+
