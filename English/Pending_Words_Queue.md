@@ -138,3 +138,7 @@ imagine
 
 offend 
 
+## 2023.8.10
+
+clarify | approach 
+
