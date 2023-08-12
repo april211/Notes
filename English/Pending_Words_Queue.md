@@ -142,3 +142,11 @@ offend
 
 clarify | approach 
 
+## 2023.8.11
+
+follow | cope | besides | diligent 
+
+## 2023.8.12
+
+crack | impress | sustain | break 
+
