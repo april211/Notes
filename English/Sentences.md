@@ -502,3 +502,17 @@ The new management *intends to institute* **a number of** changes.
 *All attempts to* **deflect** attention **from** his private life *have failed*.
 本想**转移**人们对他私生活的注意，但*一切努力都失败了*。
 
+## 2023-8-13
+
+Our *approach to* the subject can be strictly **rational** or wholly **intuitive**.
+我们*处理*这个问题*的方法*既可以是全然**理性**的，也可以是全凭**直觉**的。
+
+"He was lying, of course."—"**Not necessarily.**"
+“他当然是在撒谎。”—“**不一定。**”
+
+*With great difficulty*, the fisherman **manoeuvred** his small *craft* **close to** the reef.
+渔夫*艰难地***驾驶**着*小船***靠近**了礁石。
+
+We can *tailor* the programme *to* the patient's needs.
+我们可以*根据*病人的需要*调整*这个方案。
+

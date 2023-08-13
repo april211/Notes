@@ -150,3 +150,7 @@ follow | cope | besides | diligent
 
 crack | impress | sustain | break 
 
+## 2023.8.13
+
+grasp | focus | originate | select | pledge | mean | transfer | lead | revise | advise | hear | hand | refrain 
+
