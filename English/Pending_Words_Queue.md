@@ -152,5 +152,9 @@ crack | impress | sustain | break
 
 ## 2023.8.13
 
-grasp | focus | originate | select | pledge | mean | transfer | lead | revise | advise | hear | hand | refrain 
+grasp | focus | originate | select | pledge | mean | transfer | lead | revise | advise | hear | hand | refrain
+
+## 2023.8.15
+
+conceal | deprecate | force 
 
