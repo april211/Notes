@@ -162,3 +162,7 @@ conceal | deprecate | force
 
 relate | contest | persist 
 
+## 2023.8.17
+
+doubt | await | discover | merge | expound | prepare | principle | fall 
+

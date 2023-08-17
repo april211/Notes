@@ -516,3 +516,14 @@ Our *approach to* the subject can be strictly **rational** or wholly **intuitive
 We can *tailor* the programme *to* the patient's needs.
 我们可以*根据*病人的需要*调整*这个方案。
 
+## 2023-8-17
+
+He **expounded** his views **on the subject** to me *at great length*.
+他*详细地*向我**阐述了**他**在这个问题上**的观点。
+
+In his plays he *takes* simple traditional tales and **elaborates** them.
+他在剧本里*采用了*一些简单的传统故事并**加以发挥**。
+
+This **elaborate deception** *fooled* his family **for ages**.
+这个**精心设计的骗局***愚弄了*他家**很长时间**。
+
