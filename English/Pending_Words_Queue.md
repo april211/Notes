@@ -158,3 +158,7 @@ grasp | focus | originate | select | pledge | mean | transfer | lead | revise | 
 
 conceal | deprecate | force 
 
+## 2023.8.16
+
+relate | contest | persist 
+
