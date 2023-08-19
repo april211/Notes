@@ -166,3 +166,7 @@ relate | contest | persist
 
 doubt | await | discover | merge | expound | prepare | principle | fall 
 
+## 2023.8.18
+
+undertake | oblige | compensate | suggest | function
+
