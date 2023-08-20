@@ -170,3 +170,7 @@ doubt | await | discover | merge | expound | prepare | principle | fall
 
 undertake | oblige | compensate | suggest | function
 
+## 2023.8.19
+
+ensue | feign | serve 
+
