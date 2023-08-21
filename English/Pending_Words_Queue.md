@@ -174,3 +174,7 @@ undertake | oblige | compensate | suggest | function
 
 ensue | feign | serve 
 
+## 2023.8.20
+
+obtrusive | associate | condemn | belong | enhance | lie | inhibit | stress | confirm | forge 
+

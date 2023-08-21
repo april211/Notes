@@ -527,3 +527,11 @@ In his plays he *takes* simple traditional tales and **elaborates** them.
 This **elaborate deception** *fooled* his family **for ages**.
 这个**精心设计的骗局***愚弄了*他家**很长时间**。
 
+## 2023-8-20
+
+It seemed to *take an eternity for* us *to* get to the hospital.
+我们似乎*花了很长时间*才赶到医院。
+
+I will love you **for all eternity**.
+我会**永远**爱你。
+
