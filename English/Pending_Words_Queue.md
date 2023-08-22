@@ -178,3 +178,7 @@ ensue | feign | serve
 
 obtrusive | associate | condemn | belong | enhance | lie | inhibit | stress | confirm | forge 
 
+## 2023.8.21
+
+aware | address 
+
