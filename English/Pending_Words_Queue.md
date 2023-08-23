@@ -182,3 +182,7 @@ obtrusive | associate | condemn | belong | enhance | lie | inhibit | stress | co
 
 aware | address 
 
+## 2023.8.22
+
+gather 
+
