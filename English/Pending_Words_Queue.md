@@ -190,3 +190,7 @@ gather
 
 manner 
 
+## 2023.8.24
+
+declare | tough 
+
