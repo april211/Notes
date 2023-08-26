@@ -194,3 +194,7 @@ manner
 
 declare | tough 
 
+## 2023.8.25
+
+disperse | come | purport 
+
