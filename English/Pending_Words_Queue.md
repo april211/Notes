@@ -234,3 +234,7 @@ emerge | observe
 
 revive | outperform | approximate | illustrative | illustrate | decide | arbitrary | figure | discourage | mitigate | perspective | arise | objective | retrieve | implement 
 
+## 2023.9.8
+
+specify 
+
