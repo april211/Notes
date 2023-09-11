@@ -238,7 +238,7 @@ revive | outperform | approximate | illustrative | illustrate | decide | arbitra
 
 specify 
 
-## 2023.9.9
+## 2023.9.10
 
-devastate 
+devastate | reside
 
