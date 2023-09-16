@@ -250,3 +250,7 @@ project | identity
 
 infer 
 
+## 2023.9.15
+
+afford | contain | relieve | vital | extract 
+
