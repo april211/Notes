@@ -254,3 +254,7 @@ infer
 
 afford | contain | relieve | vital | extract 
 
+## 2023.9.19
+
+difficulty | obstacle | evident | notion | formulate | exclude | identify | render | presume | define | concise | betray | concern | cause | extent | include | contrast | whereas | sceptical | report | rank | dread | prevalent | constitute | thereby | perceive | encounter | persistent | appoint | exemplify 
+
