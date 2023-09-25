@@ -647,3 +647,71 @@ question/​interrogate a suspect/​witness询问嫌疑人／目击证人
 
 solve/​crack the case破案
 
+## Clothes and fashion服装与时尚
+
+### Clothes衣服
+
+be wearing a new outfit/​bright colours/​fancy dress/​fur/​uniform穿着一身新衣裳／鲜艳的服装／化装舞会服／毛皮衣服／制服
+
+be (dressed) in black/​red/​jeans and a T-shirt/​your best suit/​leather/​silk/​rags (= very old torn clothes)穿着黑色衣服／红色衣服／牛仔裤和 T 恤／最好的西服／皮衣／丝绸衣服／破衣烂衫
+
+be dressed for work/​school/​dinner/​a special occasion穿好衣服准备上班／上学／赴晚宴／出席特殊场合
+
+be dressed as a man/​woman/​clown/​pirate打扮成男人／女人／小丑／海盗
+
+wear/​dress in casual/​designer/​second-hand clothes穿休闲服／名牌服装／二手衣服
+
+wear jewellery/​accessories/​a watch/​glasses/​contact lenses/​perfume
+
+have a cowboy hat/​red dress/​blue suit on戴着牛仔帽；穿着红色连衣裙／蓝色西服
+
+put on/​take off your clothes/​coat/​shoes/​helmet穿上／脱下衣服／外套／鞋子；戴上／取下头盔
+
+pull on/​pull off your coat/​gloves/​socks穿上／脱下外套；戴上／脱下手套；穿上／脱下袜子
+
+change into/​get changed into a pair of jeans/​your pyjamas
+
+### Appearance外貌
+
+change/​enhance/​improve your appearance改变／提升／改善形象
+
+create/​get/​have/​give something a new/​contemporary/​retro look塑造／获得／拥有／给某物以新的／现代的／复古的外貌
+
+brush/​comb/​shampoo/​wash/​blow-dry your hair梳／用洗发剂洗／洗／吹头发
+
+have/​get a haircut/​your hair cut/​a new hairstyle理发；换一个新发型
+
+have/​get a piercing/​your nose pierced穿孔；穿鼻孔
+
+have/​get a tattoo/​a tattoo done (on your arm)/a tattoo removed有纹身；在（胳膊上）刺花纹；去除纹身
+
+have/​get a makeover/​cosmetic surgery做整容手术
+
+use/​wear/​apply/​put on make-up/​cosmetics使用化妆品；化妆
+
+### Fashion时尚
+
+follow/​keep up with (the) fashion/​the latest fashions追求时尚；赶时髦
+
+spend/​waste money on designer clothes把钱花在／浪费在名牌服装上
+
+be fashionably/​stylishly/​well dressed衣着时尚／新潮／考究
+
+have good/​great/​terrible/​awful taste in clothes着装很有品味／品味很差
+
+update/​revamp your wardrobe更新服装
+
+be in/​come into/​go out of fashion流行；开始流行；不再流行
+
+be (back/​very much) in vogue（又开始／非常）流行
+
+create a style/​trend/​vogue for something为…创造了一种风格／趋势／潮流
+
+organize/​put on a fashion show策划／举办时装秀
+
+show/​unveil a designer’s spring/​summer collection展示／首次推出一位设计师的春／夏装系列
+
+sashay/​strut down the catwalk/(North American English also) runway走 T 型台
+
+be on/​do a photo/​fashion shoot做专业摄影／时装摄影
+
