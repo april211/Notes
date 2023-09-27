@@ -262,3 +262,7 @@ difficulty | obstacle | evident | notion | formulate | exclude | identify | rend
 
 solve | incorporate | abuse | subsequent | generate | summarize | compose | decompose 
 
+## 2023.9.26
+
+confront | satisfy | viable 
+
