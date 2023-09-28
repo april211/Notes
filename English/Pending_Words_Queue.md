@@ -266,3 +266,7 @@ solve | incorporate | abuse | subsequent | generate | summarize | compose | deco
 
 confront | satisfy | viable 
 
+## 2023.9.27
+
+hence | considerable | embed | require | impair 
+
