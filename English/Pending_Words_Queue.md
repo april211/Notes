@@ -270,3 +270,7 @@ confront | satisfy | viable
 
 hence | considerable | embed | require | impair 
 
+## from 2023.10.1 to 2023.10.6
+
+command | bind | advance 
+
