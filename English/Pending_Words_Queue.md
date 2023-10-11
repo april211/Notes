@@ -34,13 +34,13 @@
 
 - **欲速则不达**，学习速度要遵循客观规律。另外，当你尝试在纸上（或者白板上）拼写单词时，注意放慢速度，仔细地体会和感受发音和拼写的感觉。越不熟悉的词汇，拼写时需要越慢一些。
 
-- **定期多次复习**本列表十分关键。复习时按照页码，由远至近地进行复习；每次复习后，使用 `>` 标注本次复习的日期。
+- **定期多次复习**本列表十分关键。复习记录放到 [BasicVocabularyNotes](./BasicVocabularyNotes.md) 中。
 
 ## 2023.7.9
 
 （今天刚创建这个文件，就把之前记录在草稿纸上的单词全部整理过来了）
 
-~~conduct~~ | ~~connect~~ | profuse | supply | narrate | conflate | idleness | endemic | substance | meat | wail | close | portray | announce | overplus | crowd | entail | involve | assume | fertile | banish | consider | exempt | ride | leave | dispute | access | apply | pleasurable | seek 
+conduct | connect | profuse | supply | narrate | conflate | idleness | endemic | substance | meat | wail | close | portray | announce | overplus | crowd | entail | involve | assume | fertile | banish | consider | exempt | ride | leave | dispute | access | apply | pleasurable | seek 
 
 ## 2023.7.10
 
@@ -306,7 +306,7 @@ command | bind | advance
 
 decline | divide | stretch
 
-## 2023.10.10
+## 2023.10.10 (merged from the deleted file: OLAD.md)
 
 correspond | refresh | blog | electricity | association | various
 
