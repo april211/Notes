@@ -318,3 +318,7 @@ respect
 
 essential | describe | powerful | fulfilment | pleasure | policy | empirical | theoretical 
 
+## 2023.10.13
+
+struggle | recall 
+
