@@ -322,3 +322,7 @@ essential | describe | powerful | fulfilment | pleasure | policy | empirical | t
 
 struggle | recall 
 
+## 2023.10.14
+
+comprehensive | comprehend 
+
