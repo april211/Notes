@@ -334,3 +334,7 @@ scale | margin
 
 comment | discussion | simplify | circumvent | beneficial 
 
+## 2023.10.17
+
+evaluate | favourably | capable 
+
