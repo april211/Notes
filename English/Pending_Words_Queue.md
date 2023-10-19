@@ -338,3 +338,7 @@ comment | discussion | simplify | circumvent | beneficial
 
 evaluate | favourably | capable 
 
+## 2023.10.18
+
+occur | consult 
+
