@@ -84,6 +84,7 @@ You can add an image or a code block, too.
    ![markdown_extention_settings_1](../images/markdown_extention_settings_1.png)
 - 编辑设置：`Math Inline Delimiters`
    ![markdown_extention_settings_2](../images/markdown_extention_settings_2.png)
+   
    在 `settings.json` 中编辑：
    ``` json
    "markdown-preview-enhanced.mathInlineDelimiters": [
@@ -108,6 +109,7 @@ You can add an image or a code block, too.
 
 - 设置 `Math Rendering Option` 选项为 `MathJax`：
    ![markdown_extention_settings_3](../images/markdown_extention_settings_3.png)
+   
    这样便将 VSCode 本地的渲染器调整为与 [Github 标准](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions#about-writing-mathematical-expressions) 相一致的状态。
    > GitHub's math rendering capability uses MathJax; an open source, JavaScript-based display engine.
 
