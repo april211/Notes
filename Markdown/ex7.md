@@ -92,10 +92,10 @@ You can add an image or a code block, too.
         //     "$",
         //     "$"
         // ],
-        [
-            "\\(",
-            "\\)"
-        ],
+        // [
+        //     "\\(",
+        //     "\\)"
+        // ],
         [
             "$`",
             "`$"
@@ -103,7 +103,7 @@ You can add an image or a code block, too.
 
     ],
    ```
-   这一步主要是影响你的嵌入式公式的定界符，如此一来便与 [Github 所推荐的做法](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions#writing-inline-expressions) 相一致了。
+   这一步主要是影响你的嵌入式公式的定界符，如此一来便与 [Github 所推荐的做法](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions#writing-inline-expressions) 完全一致了。
    > ... The latter syntax is useful when the expression you are writing contains characters that overlap with markdown syntax. 
 
 - 设置 `Math Rendering Option` 选项为 `MathJax`：
@@ -148,6 +148,10 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 
 **The Cauchy-Schwarz Inequality**
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
+## 公式标号
+
+我们知道论文中的数学公式常常是带有编号的，在使用 Markdown 书写数学公式时也可以做到这一点。
 
 ## 需要使用 $ 符号怎么办？
 
