@@ -350,8 +350,11 @@ major | abundant
 
 frontier | technique | distinction | harsh
 
-
 ## 2023.10.22
 
 consistent | expose | despite 
+
+## 2023.10.23
+
+exhibit | sufficient | overcome | speculate 
 
