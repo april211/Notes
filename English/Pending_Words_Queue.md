@@ -358,3 +358,7 @@ consistent | expose | despite
 
 exhibit | sufficient | overcome | speculate 
 
+## 2023.10.24
+
+predominant 
+
