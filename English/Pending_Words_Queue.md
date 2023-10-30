@@ -378,3 +378,7 @@ commence | annotate | determine
 
 reciprocal 
 
+## 2023.10.29
+
+subsume | join
+
