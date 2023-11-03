@@ -394,3 +394,7 @@ useful | aid
 
 proceed | analogous 
 
+## 2023.11.2
+
+premise | initiate | overall | alternative | administer | outcome
+
