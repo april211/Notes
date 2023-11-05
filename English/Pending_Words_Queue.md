@@ -396,5 +396,9 @@ proceed | analogous
 
 ## 2023.11.2
 
-premise | initiate | overall | alternative | administer | outcome
+premise | initiate | overall | alternative | administer | outcome 
+
+## 2023.11.4
+
+deceive | emphasize | virtue 
 
