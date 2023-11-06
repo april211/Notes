@@ -402,3 +402,7 @@ premise | initiate | overall | alternative | administer | outcome
 
 deceive | emphasize | virtue 
 
+## 2023.11.5
+
+according | cheat | abide | withstand | dwell | lodge | inhabit | loom 
+
