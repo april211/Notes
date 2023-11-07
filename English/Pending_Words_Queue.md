@@ -406,3 +406,7 @@ deceive | emphasize | virtue
 
 according | cheat | abide | withstand | dwell | lodge | inhabit | loom 
 
+## 2023.11.6
+
+notation 
+
