@@ -410,3 +410,7 @@ according | cheat | abide | withstand | dwell | lodge | inhabit | loom
 
 notation 
 
+## 2023.11.7
+
+devise | efficacy | remedy
+
