@@ -412,5 +412,9 @@ notation
 
 ## 2023.11.7
 
-devise | efficacy | remedy
+devise | efficacy | remedy 
+
+## 2023.11.8
+
+amenable | articulate 
 
