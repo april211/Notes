@@ -418,3 +418,7 @@ devise | efficacy | remedy
 
 amenable | articulate 
 
+## 2023.11.9
+
+outweigh | stunt | consume | intractable
+
