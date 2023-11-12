@@ -422,3 +422,7 @@ amenable | articulate
 
 outweigh | stunt | consume | intractable
 
+## 2023.11.11
+
+benefit | critical 
+
