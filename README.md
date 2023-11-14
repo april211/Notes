@@ -7,7 +7,7 @@
 - 英语（单词、语法...）[link to English dir](https://github.com/april211/Notes/tree/master/English)
 - Linux 编程与维护（Docker、Shell、Git、Ubuntu... ）[link to Linux dir](https://github.com/april211/Notes/tree/master/Linux)
 - Java、Hadoop、Spark 方向
-- 数学（线性代数、概率论、矩阵论）
+- 数学（线性代数、概率统计、矩阵论）[link to Mathematics dir](https://github.com/april211/Notes/tree/master/Mathematics)
 - 算法随笔（机器学习、图深度学习、推荐算法、NLP 等方向） [link to Research dir](https://github.com/april211/Notes/tree/master/Research)
 - LeetCode 刷题记录
 - Markdown 学习随笔 [link to Markdown dir](https://github.com/april211/Notes/tree/master/Markdown)
