@@ -434,3 +434,7 @@ explore
 
 constrain 
 
+## 2023.11.23
+
+coordinate | endeavor | dilemma | generalize | instantiate | arrive | competence
+
