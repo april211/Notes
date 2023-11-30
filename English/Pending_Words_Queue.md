@@ -436,5 +436,9 @@ constrain
 
 ## 2023.11.23
 
-coordinate | endeavor | dilemma | generalize | instantiate | arrive | competence
+coordinate | endeavor | dilemma | generalize | instantiate | arrive | competence 
+
+## 2023.11.29
+
+prompt | conduce | record 
 
