@@ -442,3 +442,7 @@ coordinate | endeavor | dilemma | generalize | instantiate | arrive | competence
 
 prompt | conduce | record 
 
+## 2023.11.30
+
+combine | fuse 
+
