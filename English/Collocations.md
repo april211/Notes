@@ -715,3 +715,70 @@ sashay/​strut down the catwalk/(North American English also) runway走 T 型�
 
 be on/​do a photo/​fashion shoot做专业摄影／时装摄影
 
+## Education教育
+
+### Learning学习
+
+acquire/​get/​lack (an) education/​training/(British English) (some) qualifications获得／缺少教育／培训／资格
+
+receive/​provide somebody with training/​tuition得到／给某人提供培训／指导
+
+develop/​design/​plan a curriculum/(especially British English) course/(North American English) program/​syllabus制订课程方案／教学大纲
+
+give/​go to/​attend a class/​lesson/​lecture/​seminar讲课；上课；举办／参加／出席研讨会
+
+hold/​run/​conduct a class/​seminar/​workshop办班；举办研讨会／讲习班
+
+sign up for/​take a course/​classes/​lessons报名参加／修读课程
+
+### School学校
+
+go to/​start preschool/​kindergarten/​nursery school上学前班／幼儿园／托儿所
+
+be in the first, second, etc. (North American English) grade/(especially British English) year (at school)在读一年级、二年级等
+
+study/​take/​drop history/​chemistry/​German, etc.修读／放弃修历史课／化学课／德语课等
+(British English) leave/​finish/​drop out of/ (North American English) quit school
+(North American English) graduate high school/​college
+
+### Problems at school在学校遇到的问题
+
+be the victim/​target of bullying成为被欺负的受害者／对象
+(British English) play truant from/ (both British English, informal) bunk off/​skive off school (= not go to school when you should)
+(both especially North American English) skip/​cut class/​school
+(British English) cheat in/(North American English) cheat on an exam/​a test
+
+get/​be given a detention (for doing something)（因做了某事）被罚放学后留校
+
+be expelled from/​be suspended from school被学校开除／暂时停学
+
+### Work and exams功课和考试
+
+do your homework/(British English) revision/​a project on something做家庭作业；复习功课；对…做专题研究
+
+work on/​write/​do/​submit an essay/​a dissertation/​a thesis/​an assignment/(North American English) a paper写／提交文章／学位论文／毕业论文／作业／论文
+
+finish/​complete your dissertation/​thesis/​studies/​coursework完成学位论文／毕业论文／学业／课程作业
+
+hand in/ (North American English) turn in your homework/​essay/​assignment/​paper提交家庭作业／文章／作业／论文
+
+study/​prepare/ (British English) revise/ (North American English) review/ (North American English, informal) cram for a test/​an exam为应考而学习／准备／复习／临时死记硬背
+
+take/ (both British English) do/​sit a test/​an exam参加考试
+(especially British English) mark/ (especially North American English) grade homework/​a test
+(British English) do well in/ (North American English) do well on/ (informal, especially North American English) ace a test/​an exam
+
+pass/​fail/ (informal, especially North American English) flunk a test/​an exam/​a class/​a course/​a subject测验／考试／课程／学科及格／不及格
+
+### University大学
+
+apply to/​get into/​go to/​start college/(British English) university申请／上／开始上大学
+
+leave/​graduate from law school/​college/(British English) university (with a degree in computer science)离开／毕业于法学院；离开大学；大学毕业（取得计算机科学的学位）
+
+study for/​take/ (British English) do/​complete a law degree/​a degree in physics攻读／读完法学学位／物理学位课程
+
+(both North American English) major/​minor in biology/​philosophy主修／辅修生物学／哲学
+
+earn/​receive/​be awarded/​get/​have/​hold a master’s degree/​a bachelor’s degree/​a PhD in economics获得／被授予／拿到／拥有经济学硕士学位／学士学位／博士学位
+
