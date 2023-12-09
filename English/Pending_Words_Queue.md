@@ -450,3 +450,7 @@ combine | fuse
 
 realization 
 
+## 2023.12.8
+
+specific | concrete | solid
+
