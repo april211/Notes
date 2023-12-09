@@ -2,7 +2,7 @@
 
 ## 前言
 
-这个文件用于摘抄牛津高阶双解词典中的 `Collocations` 部分的内容。
+这个文件用于摘抄牛津高阶双解词典中的 `Collocations` 部分的内容，仅供交流学习使用。
 
 ## Farming农场经营
 Growing food and raising animals种植粮食和饲养动物
