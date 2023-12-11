@@ -454,3 +454,7 @@ realization
 
 specific | concrete | solid
 
+## 2023.12.10
+
+relevant | advocate 
+
