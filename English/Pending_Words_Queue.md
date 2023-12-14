@@ -462,3 +462,7 @@ relevant | advocate
 
 pique | outlook | empower | excel | catalyze | restrict | envision | prime | delve | harness | distinctive 
 
+## 2023.12.13
+
+tailor | comprise 
+
