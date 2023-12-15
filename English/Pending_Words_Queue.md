@@ -466,3 +466,7 @@ pique | outlook | empower | excel | catalyze | restrict | envision | prime | del
 
 tailor | comprise 
 
+## 2023.12.14
+
+fuse | composition | disclose | controversy | necessary | incompetent | mislead | intervene | construct 
+
