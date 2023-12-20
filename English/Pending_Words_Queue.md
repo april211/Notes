@@ -474,3 +474,7 @@ fuse | composition | disclose | controversy | necessary | incompetent | mislead 
 
 enrich 
 
+## 2023.12.19
+
+foster | possess 
+
