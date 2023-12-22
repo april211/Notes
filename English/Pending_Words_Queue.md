@@ -100,7 +100,7 @@ discuss | choice | develop | start | deal | endure | suffer | intense | extend |
 
 ## 2023.7.24
 
-regular | entire | shame | sheer | perform | kill | design | compare | increase | conflict | settle | make | perform | attend | value | remind | arrange | accuse | allow | stay | act | impose | moral | refer | aspect | process | separate | detect | argue | hold
+regular | entire | shame | sheer | perform | kill | design | compare | increase | conflict | settle | make |  attend | value | remind | arrange | accuse | allow | stay | act | impose | moral | refer | aspect | process | separate | detect | argue | hold
 
 ## 2023.7.25
 
@@ -148,7 +148,7 @@ demonstrate | ready | call | devide | blame | receive | suspect | happen | fix |
 
 ## 2023.8.5
 
-keen | spread | perform | spend | treat | renovate | discharge | rush | begin | share | free | slide | judge | rely | conquer | prefer | beyond | grow | exercise | invest | elaborate | 
+keen | spread | spend | treat | renovate | discharge | rush | begin | share | free | slide | judge | rely | conquer | prefer | beyond | grow | exercise | invest | elaborate | 
 
 ## 2023.8.6
 
