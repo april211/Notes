@@ -490,3 +490,7 @@ alleviate
 
 couple 
 
+## 2023.12.26
+
+hazard | spontaneous | simultaneous
+
