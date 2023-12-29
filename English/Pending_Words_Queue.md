@@ -492,5 +492,9 @@ couple
 
 ## 2023.12.26
 
-hazard | spontaneous | simultaneous
+hazard | spontaneous | simultaneous 
+
+## 2023.12.28
+
+shape 
 
