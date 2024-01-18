@@ -514,3 +514,7 @@ marked
 
 result 
 
+# 2024.1.17
+
+defer | corroborate 
+
