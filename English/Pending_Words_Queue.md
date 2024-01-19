@@ -518,3 +518,7 @@ result
 
 defer | corroborate 
 
+# 2024.1.18
+
+propose 
+
