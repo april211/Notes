@@ -522,3 +522,7 @@ defer | corroborate
 
 propose 
 
+# 2024.1.20
+
+conjecture | span 
+
