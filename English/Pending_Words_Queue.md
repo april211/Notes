@@ -502,35 +502,35 @@ shape
 
 match 
 
-# 2024.1.14
+## 2024.1.14
 
 surpass | relative 
 
-# 2024.1.15
+## 2024.1.15
 
 marked 
 
-# 2024.1.16
+## 2024.1.16
 
 result 
 
-# 2024.1.17
+## 2024.1.17
 
 defer | corroborate 
 
-# 2024.1.18
+## 2024.1.18
 
 propose 
 
-# 2024.1.20
+## 2024.1.20
 
 conjecture | span 
 
-# 2024.1.22
+## 2024.1.22
 
 marry | assist 
 
-# 2024.1.23
+## 2024.1.23
 
 direct | distinct 
 
