@@ -530,3 +530,7 @@ conjecture | span
 
 marry | assist 
 
+# 2024.1.23
+
+direct | distinct 
+
