@@ -20,7 +20,7 @@
 
 熟练掌握并使用这部分词汇，应当起到**以点带面**的作用，使英语的使用更加地道、顺畅，为书写英文学术论文奠定良好的基础。
 
-这些单词将按照 FIFO 的策略，逐步加入到学习笔记 [BasicVocabularyNotes](./BasicVocabularyNotes.md) 中。已经加入到笔记中的单词将~~使用删除线划去~~。
+~~这些单词将按照 FIFO 的策略，逐步加入到学习记录 [BasicVocabularyNotes](./BasicVocabularyNotes.md) 中。已经加入到笔记中的单词将使用删除线划去。（暂时使用欧路词典进行学习）~~
 
 ## 学习时注意
 
@@ -34,7 +34,7 @@
 
 - **欲速则不达**，学习速度要遵循客观规律。另外，当你尝试在纸上（或者白板上）拼写单词时，注意放慢速度，仔细地体会和感受发音和拼写的感觉。越不熟悉的词汇，拼写时需要越慢一些。
 
-- **定期多次复习**本列表十分关键。复习记录放到 [BasicVocabularyNotes](./BasicVocabularyNotes.md) 中。
+- **定期多次复习**本列表十分关键。~~复习记录放到 [BasicVocabularyNotes](./BasicVocabularyNotes.md) 中。~~
 
 ## 2023.7.9
 
@@ -554,7 +554,7 @@ uplift | uncharted | align | endow | oblivious
 
 curate 
 
-## 2024.2.12
+## 2024.2.12 << 本日期及以前的词汇已导入欧路词典
 
 cherish 
 
