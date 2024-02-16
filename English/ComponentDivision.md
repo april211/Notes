@@ -30,3 +30,17 @@ Having lived in Beijing for many years, Carter knew the city well.
 
 > 动词的分词形式 + (,) + 主句, 构成状语前置结构
 
+## 2024-2-15
+
+There are concerns about the way in which the firm conducts its acitvities.
+
+![English_CD_20240215_1](../images/English_CD_20240215_1.png)
+
+对于这种定语从句的用法还不明确，主要疑点在于：主句和从句的结构似乎都是完整的，与另外一种常见的、较容易理解的定语从句形式不同。
+
+> There are concerns about the way. 
+> 
+> The firm conducts its acitvities.
+
+但是这种形式的定语从句很常见，需要再专门学习一下。
+
