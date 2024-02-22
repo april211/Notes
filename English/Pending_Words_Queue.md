@@ -554,7 +554,11 @@ uplift | uncharted | align | endow | oblivious
 
 curate 
 
-## 2024.2.12 << 本日期及以前的词汇已导入欧路词典
+## 2024.2.12
 
 cherish 
+
+## 2024.2.21 << 本日期及以前的词汇已导入欧路词典
+
+conserve | attribute | steer 
 
