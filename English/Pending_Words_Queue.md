@@ -558,7 +558,11 @@ curate
 
 cherish 
 
-## 2024.2.21 << 本日期及以前的词汇已导入欧路词典
+## 2024.2.21
 
 conserve | attribute | steer 
+
+## 2024.2.23  << 本日期及以前的词汇已导入欧路词典
+
+remarkable | promise 
 
