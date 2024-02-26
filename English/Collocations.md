@@ -2,7 +2,9 @@
 
 ## 前言
 
-这个文件用于摘抄牛津高阶双解词典中的 `Collocations` 部分的内容，仅供交流学习使用。
+这个文件用于摘抄牛津高阶双解词典中的 `Collocations` 部分的内容，来源于免费公开的网络资源，仅供交流学习使用！
+
+如有侵权情况[请邮箱联系我](../README.md)，我会立即删除。
 
 ## Farming农场经营
 Growing food and raising animals种植粮食和饲养动物
@@ -781,4 +783,70 @@ study for/​take/ (British English) do/​complete a law degree/​a degree in 
 (both North American English) major/​minor in biology/​philosophy主修／辅修生物学／哲学
 
 earn/​receive/​be awarded/​get/​have/​hold a master’s degree/​a bachelor’s degree/​a PhD in economics获得／被授予／拿到／拥有经济学硕士学位／学士学位／博士学位
+
+## Marriage and divorce结婚和离婚
+
+### Romance恋爱
+
+fall/​be (madly/​deeply/​hopelessly) in love (with somebody)（疯狂地／深深地／无可救药地）爱上／爱着（某人）
+
+be/​believe in/​fall in love at first sight是／相信一见钟情；一见钟情
+
+be/​find true love/​the love of your life是／找到真爱／一生的爱
+
+suffer (from) (the pains/​pangs of) unrequited love受单相思之苦
+
+have/​feel/​show/​express great/​deep/​genuine affection for somebody/​something对某人／某事有着／表示出强烈的／深深的／真挚的爱慕之情
+
+meet/​marry your husband/​wife/​partner/​fiancé/fiancée/​boyfriend/​girlfriend与丈夫／妻子／伴侣／未婚夫／未婚妻／男朋友／女朋友结识／结婚
+
+have/​go on a (blind) date有个／去约会／相亲
+
+be going out with/(especially North American English) dating a guy/​girl/​boy/​man/​woman与一个小伙子／女生／男生／男人／女人在谈恋爱
+
+move in with/​live with your boyfriend/​girlfriend/​partner与男朋友／女朋友／伴侣同居
+
+### Weddings婚礼
+
+get/​be engaged/​married/​divorced订婚；结婚；离婚
+
+arrange/​plan a wedding安排婚礼
+
+have a big wedding/​a honeymoon/​a happy marriage举行隆重的婚礼；度蜜月；婚姻幸福
+
+have/​enter into an arranged marriage有一个／走入包办婚姻
+
+call off/​cancel/​postpone your wedding取消／推迟婚礼
+
+invite somebody to/​go to/​attend a wedding/​a wedding ceremony/​a wedding reception邀请某人出席／参加婚礼／结婚典礼／结婚喜宴
+
+conduct/​perform a wedding ceremony举行结婚典礼
+
+exchange rings/​wedding vows/​marriage vows交换戒指；互致结婚誓言
+
+congratulate/​toast/​raise a glass to the happy couple祝贺这对幸福的新人；为这对幸福的伉俪干杯
+
+be/​go on honeymoon (with your wife/​husband)（与妻子／丈夫）在／去度蜜月
+
+celebrate your first (wedding) anniversary庆祝第一个（结婚）纪念日
+
+### Separation and divorce分居和离婚
+
+be unfaithful to/(informal) cheat on your husband/​wife/​partner/​fiancé/fiancée/​boyfriend/​girlfriend对丈夫／妻子／伴侣／未婚夫／未婚妻／男朋友／女朋友不忠
+
+have an affair (with somebody)（和某人）有暧昧关系
+
+break off/​end an engagement/​a relationship解除／终止婚约／恋爱关系
+
+break up with/​split up with/ (informal) dump your boyfriend/​girlfriend与男友／女友分手；甩掉男友／女友
+
+separate from/​be separated from/​leave/​divorce your husband/​wife和丈夫／妻子分居；离弃丈夫／妻子；与丈夫／妻子离婚
+
+annul/​dissolve a marriage宣布婚姻无效；解除婚姻关系
+
+apply for/​ask for/​go through/​get a divorce申请／要求／办理离婚；离婚
+
+get/​gain/​be awarded/​have/​lose custody of the children获得／被判予／拥有／失去对孩子的监护权
+
+pay alimony/​child support (to your ex-wife/​husband)（向前妻／前夫）支付生活费／子女抚养费
 
