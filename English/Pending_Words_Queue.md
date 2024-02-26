@@ -566,7 +566,11 @@ conserve | attribute | steer
 
 remarkable | promise 
 
-## 2024.2.24  << 本日期及以前的词汇已导入欧路词典
+## 2024.2.24
 
 article | purpose 
+
+## 2024.2.25  << 本日期及以前的词汇已导入欧路词典
+
+evidence ｜ breed 
 
