@@ -723,3 +723,9 @@ I *was moving into uncharted territory* (= a completely new experience) with thi
 
 他五*岁时*就**表现出非凡的**音乐**才能**。
 
+## 2024-2-25
+
+Few policy-makers *have had direct experience of* business.
+
+决策者几乎都没*有直接的*从商经历。
+
