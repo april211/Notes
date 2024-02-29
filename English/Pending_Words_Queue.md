@@ -574,7 +574,11 @@ article | purpose
 
 evidence ｜ breed 
 
-## 2024.2.27  << 本日期及以前的词汇已导入欧路词典
+## 2024.2.27
 
 elicit | competent 
+
+## 2024.2.28  << 本日期及以前的词汇已导入欧路词典
+
+pivotal | modify 
 
