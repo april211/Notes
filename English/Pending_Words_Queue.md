@@ -578,7 +578,11 @@ evidence ｜ breed
 
 elicit | competent 
 
-## 2024.2.28  << 本日期及以前的词汇已导入欧路词典
+## 2024.2.28
 
 pivotal | modify 
+
+## 2024.2.29  << 本日期及以前的词汇已导入欧路词典
+
+narrow 
 
