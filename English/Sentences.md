@@ -729,3 +729,9 @@ Few policy-makers *have had direct experience of* business.
 
 决策者几乎都没*有直接的*从商经历。
 
+## 2024-2-29
+
+Images can **be considered as** special cases of graphs, *in which* nodes **lie on** regular 2D lattices.
+
+图像数据**可以被看作是**图数据的一种特例，*其中的*图节点**位于**规则的二维网格上。
+
