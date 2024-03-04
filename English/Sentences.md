@@ -735,3 +735,13 @@ Images can **be considered as** special cases of graphs, *in which* nodes **lie 
 
 图像数据**可以被看作是**图数据的一种特例，*其中的*图节点**位于**规则的二维网格上。
 
+## 2024-3-1
+
+These results **demonstrate the contributions** of gPool and gUnpool layers to **performance improvement**.
+
+这些结果**表明了** gPool 和 gUnpool 层对**提高性能****的贡献**。
+
+We hope this survey will **bridge literature gaps** and **propel the advancement** of this promising field.
+
+我们希望这项调查能**弥补文献空白**，**推动**这一前景广阔领域的**发展**。
+
