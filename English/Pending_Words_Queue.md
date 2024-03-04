@@ -582,7 +582,11 @@ elicit | competent
 
 pivotal | modify 
 
-## 2024.2.29  << 本日期及以前的词汇已导入欧路词典
+## 2024.2.29
 
 narrow 
+
+## 2024.3.1  << 本日期及以前的词汇已导入欧路词典
+
+revolve | synergy 
 
