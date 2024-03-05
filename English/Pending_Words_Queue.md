@@ -586,7 +586,11 @@ pivotal | modify
 
 narrow 
 
-## 2024.3.1  << 本日期及以前的词汇已导入欧路词典
+## 2024.3.1
 
 revolve | synergy 
+
+## 2024.3.4  << 本日期及以前的词汇已导入欧路词典
+
+expedite 
 
