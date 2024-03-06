@@ -590,7 +590,11 @@ narrow
 
 revolve | synergy 
 
-## 2024.3.4  << 本日期及以前的词汇已导入欧路词典
+## 2024.3.4
 
 expedite 
+
+## 2024.3.5  << 本日期及以前的词汇已导入欧路词典
+
+contingent | imperative | conform | remainder | review 
 
