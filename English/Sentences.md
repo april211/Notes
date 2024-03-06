@@ -745,3 +745,9 @@ We hope this survey will **bridge literature gaps** and **propel the advancement
 
 我们希望这项调查能**弥补文献空白**，**推动**这一前景广阔领域的**发展**。
 
+## 2024-3-5
+
+*It is imperative that* future studies investigate these aspects, **focusing on** the development of methodologies to assess and enhance the robustness of reduced graphs.
+
+今后的研究*必须*对这些方面进行调查，**重点是**制定方法来评估和加强缩减图的稳健性。
+
