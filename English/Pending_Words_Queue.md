@@ -594,7 +594,11 @@ revolve | synergy
 
 expedite 
 
-## 2024.3.5  << 本日期及以前的词汇已导入欧路词典
+## 2024.3.5
 
 contingent | imperative | conform | remainder | review 
+
+## 2024.3.7  << 本日期及以前的词汇已导入欧路词典
+
+outset 
 
