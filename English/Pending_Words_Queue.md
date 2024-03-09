@@ -598,7 +598,11 @@ expedite
 
 contingent | imperative | conform | remainder | review 
 
-## 2024.3.7  << 本日期及以前的词汇已导入欧路词典
+## 2024.3.7
 
 outset 
+
+## 2024.3.9  << 本日期及以前的词汇已导入欧路词典
+
+subject | send | hire | publish | analyse | watch | convey | evoke | avaliable | arouse | emphasis | emphatic | requirement | propound | variety | preserve 
 
