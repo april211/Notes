@@ -850,3 +850,161 @@ get/​gain/​be awarded/​have/​lose custody of the children获得／被判
 
 pay alimony/​child support (to your ex-wife/​husband)（向前妻／前夫）支付生活费／子女抚养费
 
+## Literature文学
+### Being a writer当作家
+
+write/​publish literature/​poetry/​fiction/​a book/​a story/​a poem/​a novel/​a review/​an autobiography写／发表文学作品／诗集／小说／书／故事／诗歌／长篇小说／评论／自传
+
+become a writer/​novelist/​playwright成为作家／小说家／剧作家
+
+find/​have a publisher/​an agent找到／有出版商／代理人
+
+have a new book out出版一部新书
+
+edit/​revise/​proofread a book/​text/​manuscript编辑／修订／校对书／文章／原稿
+
+dedicate a book/​poem to…把一本书／一首诗献给…
+
+### Plot, character and atmosphere情节、人物和氛围
+
+construct/​create/​weave/​weave something into a complex narrative构思／创作／编写／把某事编成一部复杂的叙事小说
+
+advance/​drive the plot推进故事情节的发展
+
+introduce/​present the protagonist/​a character介绍主人公／一个人物
+
+describe/​depict/​portray a character (as…)/(somebody as) a hero/​villain描述人物／英雄／坏蛋；把一个人物描绘成…；把某人描绘成英雄／坏蛋
+
+create an exciting/​a tense atmosphere营造一种令人兴奋／紧张的气氛
+
+build/​heighten the suspense/​tension制造／增加悬念／紧张气氛
+
+evoke/​capture the pathos of the situation唤起对这种状况的同情
+
+convey emotion/​an idea/​an impression/​a sense of…传达…情感／思想；给人…印象／感觉
+
+### engage the reader吸引读者
+
+seize/​capture/​grip the (reader’s) imagination抓住（读者的）想象力
+
+arouse/​elicit emotion/​sympathy (in the reader)唤起（读者的）情感／同情
+
+lack imagination/​emotion/​structure/​rhythm缺乏想象力／情感／精心组织／节奏感
+
+### Language, style and imagery语言、风格和形象语言
+
+use/​employ language/​imagery/​humour/(US English) humor/​an image/​a symbol/​a metaphor/​a device使用语言／形象语言／幽默／意象／象征／暗喻／手段
+
+use/​adopt/​develop a style/​technique使用／采用／形成一种风格／技巧
+
+be rich in/​be full of symbolism富含象征意义
+
+evoke images of…/a sense of…/a feeling of…唤起…的形象／感觉
+
+create/​achieve an effect创造／取得效果
+
+maintain/​lighten the tone维持／缓和基调
+
+introduce/​develop an idea/​a theme引入／发展一种思想／一个主题
+
+inspire a novel/​a poet/​somebody’s work/​somebody’s imagination促成小说的创作；给诗人以灵感；促成某人作品的诞生；激发某人的想象力
+
+### Reading and criticism阅读与评论
+
+read an author/​somebody’s work/​fiction/​poetry/​a text/​a poem/​a novel/​a chapter/​a passage读一个作家的作品／某人的著作／小说／诗集／一篇文章／一首诗／一部小说／一个章节／一段文章
+
+review a book/​a novel/​somebody’s work评论一本书／一部小说／某人的作品
+
+give something/​get/​have/​receive a good/​bad review给予／得到好评／恶评
+
+be hailed (as)/be recognized as a masterpiece被誉为一部杰作
+
+quote a(n) phrase/​line/​stanza/​passage/​author引用一个短语／一行诗／一节诗／一段文章／作者的话
+
+provoke/​spark discussion/​criticism引发讨论／评论
+
+study/​interpret/​understand a text/​passage研读／解读／理解一篇文章／一段文章
+
+translate somebody’s work/​a text/​a passage/​a novel/​a poem翻译某人的作品／一篇文章／一段文章／一部小说／一首诗
+
+## Race and immigration种族与移民
+### Prejudice and racism偏见与种族歧视
+
+experience/​encounter racism/​discrimination/​prejudice/​anti-semitism经历／遭遇种族歧视／歧视／偏见／反犹太主义
+
+face/​suffer persecution/​discrimination面临／遭受迫害／歧视
+
+fear/​escape from/​flee racial/​political/​religious persecution惧怕／逃离种族／政治／宗教迫害
+
+constitute/​be a form of racial/​race discrimination构成／是一种种族歧视
+
+reflect/​reveal/​show/​have a racial/​cultural bias反映出／揭示出／表现出／具有种族／文化偏见
+
+be biased/​be prejudiced against (especially British English) black people/(both especially North American English) people of color/​African Americans/​Asians/​Africans/​Indians, etc.对黑人／有色人种／非裔美国人／亚洲人／非洲人／印度人等有偏见
+
+discriminate against minority groups/​minorities歧视少数群体／少数民族
+
+perpetuate/​conform to/​fit/​defy a common/​popular/​traditional/​negative stereotype固守／遵从／符合／藐视普遍的／流行的／传统的／负面的模式化观念
+
+overcome/​be blinded by deep-seated/​racial/(especially North American English) race prejudice克服根深蒂固的／种族的偏见；被根深蒂固的／种族的偏见所蒙蔽
+
+entrench/​perpetuate racist attitudes固守种族主义的态度
+
+hurl/​shout (especially British English) racist abuse; (especially North American English) a racist/​racial/​ethnic slur高声地进行种族污辱
+
+challenge/​confront racism/​discrimination/​prejudice拒绝接受／对抗种族主义／歧视／偏见
+
+combat/​fight (against)/tackle blatant/​overt/​covert/​subtle/​institutional/​systemic racism打压／反对／处理公然的／公开的／隐蔽的／微妙的／制度性的种族歧视
+
+### Race and society种族和社会
+
+damage/​improve (especially British English) race relations破坏／改善种族关系
+
+practise (racial/​religious) tolerance/​segregation
+
+bridge/​break down/​transcend cultural/​racial barriers消除／打破／超越文化／种族隔阂
+
+encourage/​promote social integration鼓励／促进社会融合
+
+outlaw/​end discrimination/​slavery/​segregation取缔／终止歧视／奴隶制／种族隔离
+
+promote/​embrace/​celebrate cultural diversity促进／欣然接纳／颂扬文化多样性
+
+conform to/​challenge/​violate (accepted/​established/​prevailing/​dominant) social/​cultural norms遵循／挑战／违背（公认的／确立的／盛行的／占支配地位的）社会／文化规范
+
+live in a multicultural society生活在多元文化社会
+
+attack/​criticize multiculturalism攻击／批评多元文化主义
+
+fight for/​struggle for/​promote racial equality为种族平等而斗争；促进种族平等
+
+perpetuate/​reinforce economic and social inequality延续／加剧经济和社会的不平等
+
+introduce/​be for/​be against (British English) positive discrimination/(especially North American English) affirmative action推行／支持／反对积极性区别对待政策
+
+support/​be active in/​play a leading role in the civil rights movement支持／积极参与／领导民权运动
+
+### Immigration移居
+
+control/​restrict/​limit/​encourage immigration控制／限制／鼓励外来移民
+
+attract/​draw a wave of immigrants吸引一批外来移民
+
+assist/​welcome refugees援助／欣然接受难民
+
+house/​shelter refugees and asylum seekers安置／庇护难民和寻求政治避难者
+
+smuggle illegal immigrants into the UK偷运非法移民到英国
+
+deport/​repatriate illegal immigrants/​failed asylum seekers驱逐／遣返非法移民／寻求政治避难失败者
+
+assimilate/​integrate new immigrants同化／融合新移民
+
+employ/​hire migrant workers雇用流动工人
+
+exploit/​rely on (cheap/​illegal) immigrant labour
+
+apply for/​gain/​obtain/​be granted/​be denied (full) citizenship申请／获得／准予／未准予（完全的）公民身份
+
+have/​hold dual citizenship持有双重国籍
+
