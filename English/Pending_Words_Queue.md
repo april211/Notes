@@ -602,7 +602,11 @@ contingent | imperative | conform | remainder | review
 
 outset 
 
-## 2024.3.9  << 本日期及以前的词汇已导入欧路词典
+## 2024.3.9
 
 subject | send | hire | publish | analyse | watch | convey | evoke | avaliable | arouse | emphasis | emphatic | requirement | propound | variety | preserve 
+
+## 2024.3.11  << 本日期及以前的词汇已导入欧路词典
+
+press | outline | concur | spurious 
 
