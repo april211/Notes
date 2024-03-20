@@ -610,7 +610,11 @@ subject | send | hire | publish | analyse | watch | convey | evoke | avaliable |
 
 press | outline | concur | spurious 
 
-## 2024.3.16  << 本日期及以前的词汇已导入欧路词典
+## 2024.3.16
 
 disruptive | motivated | regain 
+
+## 2024.3.20  << 本日期及以前的词汇已导入欧路词典
+
+characterize | posit | elucidate 
 
