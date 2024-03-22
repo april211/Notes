@@ -614,7 +614,11 @@ press | outline | concur | spurious
 
 disruptive | motivated | regain 
 
-## 2024.3.20  << 本日期及以前的词汇已导入欧路词典
+## 2024.3.20
 
 characterize | posit | elucidate 
+
+## 2024.3.21  << 本日期及以前的词汇已导入欧路词典
+
+proposition 
 
