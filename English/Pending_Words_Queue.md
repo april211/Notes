@@ -618,7 +618,11 @@ disruptive | motivated | regain
 
 characterize | posit | elucidate 
 
-## 2024.3.21  << 本日期及以前的词汇已导入欧路词典
+## 2024.3.21
 
 proposition 
+
+## 2024.3.22  << 本日期及以前的词汇已导入欧路词典
+
+adapt 
 
