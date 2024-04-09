@@ -630,7 +630,11 @@ adapt
 
 option | recover | pursue | potential | finish 
 
-## 2024.3.30  << 本日期及以前的词汇已导入欧路词典
+## 2024.3.30
 
 handle | influence | perceptive
+
+## 2024.4.6  << 本日期及以前的词汇已导入欧路词典
+
+support | requisite 
 
