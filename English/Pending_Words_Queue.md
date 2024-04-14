@@ -634,7 +634,11 @@ option | recover | pursue | potential | finish
 
 handle | influence | perceptive
 
-## 2024.4.6  << 本日期及以前的词汇已导入欧路词典
+## 2024.4.6
 
 support | requisite 
+
+## 2024.4.13  << 本日期及以前的词汇已导入欧路词典
+
+protect | gratitude | guarantee 
 
