@@ -642,7 +642,11 @@ support | requisite
 
 protect | gratitude | guarantee 
 
-## 2024.4.18  << 本日期及以前的词汇已导入欧路词典
+## 2024.4.18
 
 dependent 
+
+## 2024.4.20  << 本日期及以前的词汇已导入欧路词典
+
+recognize | adequate 
 
