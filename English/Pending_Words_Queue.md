@@ -646,7 +646,11 @@ protect | gratitude | guarantee
 
 dependent 
 
-## 2024.4.20  << 本日期及以前的词汇已导入欧路词典
+## 2024.4.20
 
 recognize | adequate 
+
+## 2024.4.23  << 本日期及以前的词汇已导入欧路词典
+
+neglect 
 
