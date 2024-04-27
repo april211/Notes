@@ -650,7 +650,11 @@ dependent
 
 recognize | adequate 
 
-## 2024.4.23  << 本日期及以前的词汇已导入欧路词典
+## 2024.4.23
 
 neglect 
+
+## 2024.4.25  << 本日期及以前的词汇已导入欧路词典
+
+designate 
 
