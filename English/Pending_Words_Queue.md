@@ -654,7 +654,11 @@ recognize | adequate
 
 neglect 
 
-## 2024.4.25  << 本日期及以前的词汇已导入欧路词典
+## 2024.4.25
 
 designate 
+
+## 2024.4.27  << 本日期及以前的词汇已导入欧路词典
+
+engender 
 
