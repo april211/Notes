@@ -1,6 +1,6 @@
 # 术语定义列表的创建
 
-*注意：术语定义列表语法被 Markdown 官网列为扩展语法，使用时应当先查看自己所用的语法解释器 (parser) 的说明书。*
+*注意：术语定义列表语法被 Markdown 官网列为扩展语法，**实测 Github 并不支持该语法**。使用时应当先查看自己所用的语法解释器 (parser) 的说明书。*
 
 在 Markdown 中建立一个术语定义列表分两步。首先给出示例：
 
@@ -12,6 +12,8 @@ take
 : ……
 ```
 
+你的 Markdown parser 的渲染结果：
+
 take
 : 携带，拿走
 : 带去，引领
@@ -19,6 +21,10 @@ take
 : ……
 
 > 示例数据来源：[网易有道词典 2023-7-14](https://www.youdao.com/result?word=take&lang=en)
+
+我这边的渲染结果：
+
+![markdown_term](../images/markdown_term.png)
 
 可以看到，术语定义列表分为两个部分：
 
