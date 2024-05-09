@@ -37,7 +37,7 @@ take
 
 *注意：任务清单列表语法被 Markdown 官网列为扩展语法，使用时应当先查看自己所用的语法解释器 (parser) 的说明书。*
 
-Markdown 的任务清单语法十分简洁易读，我们可以结合使用该语法以及 [表格语法](./ex5.md) 来制作简单的 **TODO list**。
+Markdown 的任务清单语法十分简洁易读，我们可以使用该语法，或者使用 [表格语法](./ex5.md) 来制作简单的 **TODO list**。我在 [这个例子](./Examples/to-do_list.md) 中给出了一个使用表格语法制作的 TODO list 样例，并且给出了我自用的整洁 Markdown 表格的 [脚本](./Scripts/tidy_your_mkdown_table.py)，可以参考。
 
 首先给出示例代码：
 
