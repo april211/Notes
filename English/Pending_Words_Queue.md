@@ -666,7 +666,11 @@ engender
 
 attain 
 
-## 2024.5.9  << 本日期及以前的词汇已导入欧路词典
+## 2024.5.9
 
 noteworthy 
+
+## 2024.5.17  << 本日期及以前的词汇已导入欧路词典
+
+nonetheless | thorough 
 
