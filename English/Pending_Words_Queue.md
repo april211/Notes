@@ -670,7 +670,11 @@ attain
 
 noteworthy 
 
-## 2024.5.17  << 本日期及以前的词汇已导入欧路词典
+## 2024.5.17
 
 nonetheless | thorough 
+
+## 2024.5.23  << 本日期及以前的词汇已导入欧路词典
+
+absence  | yield  
 
