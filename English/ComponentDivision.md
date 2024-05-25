@@ -58,3 +58,15 @@ Enpuz的解释：
 
 > 动词(或动词短语) + **现在分词作伴随状语**, 两者同时发生
 
+## 2024-5-25
+
+The play opened last week to universal acclaim. 
+
+汉译：
+
+> 这部戏上周开演，受到了普遍好评。
+
+知识点：状语后置
+
+![English_CD_20240525_1](../images/English_CD_20240525_1.png)
+
