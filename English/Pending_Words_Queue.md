@@ -674,7 +674,11 @@ noteworthy
 
 nonetheless | thorough 
 
-## 2024.5.23  << 本日期及以前的词汇已导入欧路词典
+## 2024.5.23
 
-absence  | yield  
+absence  | yield 
+
+## 2024.5.25  << 本日期及以前的词汇已导入欧路词典
+
+deserve | praise 
 
