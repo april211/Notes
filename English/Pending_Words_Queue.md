@@ -678,7 +678,11 @@ nonetheless | thorough
 
 absence  | yield 
 
-## 2024.5.25  << 本日期及以前的词汇已导入欧路词典
+## 2024.5.25
 
 deserve | praise 
+
+## 2024.5.26  << 本日期及以前的词汇已导入欧路词典
+
+accommodate 
 
