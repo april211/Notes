@@ -682,7 +682,15 @@ absence  | yield
 
 deserve | praise 
 
-## 2024.5.26  << 本日期及以前的词汇已导入欧路词典
+## 2024.5.26
 
 accommodate 
+
+## 2024.5.29
+
+gradual | wish 
+
+## 2024.5.30  << 本日期及以前的词汇已导入欧路词典
+
+coherent 
 
