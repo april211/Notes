@@ -1,0 +1,10 @@
+Outer loop: i == 1.
+Inner loop: j == 1.
+Inner loop: j == 2.
+Inner loop: j == 3.
+
+Outer loop: i == 1.
+Inner loop: j == 1.
+Inner loop: j == 2.
+Inner loop: j == 3.
+
