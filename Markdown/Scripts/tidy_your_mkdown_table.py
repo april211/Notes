@@ -32,6 +32,11 @@ print("Before: " + "\n\n" + query, end="\n"* 3)
 # For "cleaned" table entries: ***
 rows = [[el.strip() for el in row.split('|')][1:-1] for row in query.splitlines()]
 
+# sort rows by the priority (the third element) in ascending order
+rows_task = rows[2:-1]                  # skip the non-task rows
+rows_task.sort(key=lambda x: int(x[2][-1]), reverse=False)
+rows[2:-1] = rows_task                  # replace the sorted rows (refs) back
+
 # Max length of each "entry" is what we'll use
 # to evenly space "columns" in the final table
 
