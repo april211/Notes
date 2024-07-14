@@ -702,7 +702,11 @@ resolve
 
 choose 
 
-## 2024.6.18  << 本日期及以前的词汇已导入欧路词典
+## 2024.6.18
 
 encompass | replicate 
+
+## 2024.7.13  << 本日期及以前的词汇已导入欧路词典
+
+deserve | travel 
 
