@@ -710,7 +710,11 @@ encompass | replicate
 
 travel 
 
-## 2024.7.21  << 本日期及以前的词汇已导入欧路词典
+## 2024.7.21
 
 succeed | accomplish 
+
+## 2024.7.22  << 本日期及以前的词汇已导入欧路词典
+
+trust 
 
