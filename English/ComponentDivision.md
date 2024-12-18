@@ -70,3 +70,15 @@ The play opened last week to universal acclaim.
 
 ![English_CD_20240525_1](../images/English_CD_20240525_1.png)
 
+## 2024-9-28
+
+The Johnson family has effective control of the company, owning almost 60% of the shares.
+
+汉译：
+
+> 约翰逊家族有效地控制着该公司，持有近60%的股份。
+
+知识点：**现在分词作伴随状语**, 两者同时发生
+
+![English_CD_20240928_1](../images/English_CD_20240928_1.png)
+
