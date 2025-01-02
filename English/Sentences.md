@@ -751,3 +751,9 @@ We hope this survey will **bridge literature gaps** and **propel the advancement
 
 今后的研究*必须*对这些方面进行调查，**重点是**制定方法来评估和加强缩减图的稳健性。
 
+## 2025-1-1
+
+Many *were sceptical* **as to** whether the plan would succeed.
+
+许多人**对**该计划能否成功*持怀疑态度*。
+
