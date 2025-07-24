@@ -39,7 +39,7 @@
 - [CommonMark - Markdown 标准](https://commonmark.org/)
 - [Markdown 官方教程 - 中文](https://markdown.com.cn/)
 - [Markdown 官方教程 - 英文](https://www.markdownguide.org/)
-- [Markdown Preview Enhanced - 官方文档](https://shd101wyy.github.io/markdown-preview-enhanced/#/)
+- [Markdown Preview Enhanced - 官方文档](https://shd101wyy.github.io/markdown-preview-enhanced/#/)，你可以利用文档中的内容使用 CSS 自定义一些显示样式，比如显示字体的大小等
 - [Github Docs - Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)，使用 Github 渲染的需要看一下
 - [Github Docs - Working With Advanced Formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting)，后半部分有一些使用 Github 时的特殊语法知识，有利于你更优雅地使用 Github 的相关功能
 - [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
