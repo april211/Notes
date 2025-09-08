@@ -6,7 +6,7 @@
 
 - 英语（单词、语法...）[link to English dir](https://github.com/april211/Notes/tree/master/English)
 - Linux（Docker、Shell、Git、Ubuntu... ）[link to Linux dir](https://github.com/april211/Notes/tree/master/Linux)
-- Java 
+- C++ 
 - 数学（信息论、线性代数、概率统计、矩阵论）[link to Mathematics dir](https://github.com/april211/Notes/tree/master/Mathematics)
 - 算法（机器学习、图深度学习、推荐算法、NLP 等方向） [link to Research dir](https://github.com/april211/Notes/tree/master/Research)
 - LeetCode 
