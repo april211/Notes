@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        ".env*": "dotenv",
+        "*.cfg": "ini",
+        "*.cnf": "ini",
+        "*.conf": "ini",
+        "*.config": "ini",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp"
+    }
+}
