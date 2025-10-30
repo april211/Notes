@@ -8,6 +8,9 @@
         "iostream": "cpp",
         "ostream": "cpp",
         "iosfwd": "cpp",
-        "istream": "cpp"
+        "istream": "cpp",
+        "random": "cpp",
+        "typeinfo": "cpp",
+        "string": "cpp"
     }
 }

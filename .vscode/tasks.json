@@ -10,6 +10,8 @@
                 "-g",
                 "-Wall",
                 "-Wextra",
+                "-m32",
+                // "-m64",
                 "${file}",
                 "-o",
                 "${fileDirname}/${fileBasenameNoExtension}.out"
