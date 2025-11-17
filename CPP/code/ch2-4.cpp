@@ -73,10 +73,25 @@ int main() {
 
     // cout << 1 / 0 << endl;                                  // illegal: Arithmetic exception (runtime)
 
+    /* We first review the concept of "reference to pointer" & "const" together as follows. */
+    int *iptr = &b;
+    // decltype((clow_iptr)) decl_exp_clow_ptref = &a;         // illegal: the referenced pointer type is NOT `const`!
+    const int *clow_pt = iptr;                                 // legal: low-level `const` is convertible
+    // const int *&clow_ptref = iptr;                          // ILLEGAL: prevent indirect backdoor attack!
+    const int *const&clow_ptref = iptr;                        // legal: can't change `iptr` to pointing to a low-level `const` (forbidden!) via the ref `clow_ptref`
+    /* r2p: low-level `const` -> high-level `const` */
+    /* OR: change `int *iptr = &b;` to `const int *iptr = &b;` (low-level `const` consistency), 
+           so that one cannot change the underlying object to which `iptr` points */
+
+    // decltype((clow_iptr)) decl_exp_clow_ptref = iptr;       // ILLEGAL: prevent indirect backdoor attack!
+    // decltype((ctop_iptr)) decl_exp_ctop_ptref = iptr;       // legal: one can't change the object to which `iptr` points through it
+    decltype((ctop_iptr)) decl_exp_ctop_ptref = &a;            // legal: top-level `const` is kept
+
     cout << decl_exp_aref << ' ' << decl_exp_a << ' ' << decl_exp_b << ' ' << decl_exp_bref << endl;
+    cout << *clow_pt << ' ' << *clow_ptref << ' ' << *decl_exp_ctop_ptref << endl;
 
     // Exercise 2.37: assignment also cause `decltype` to return a reference type
-    decltype(a = b) d = a;                                      // `a` won't be change by `decltype(a = b)`
+    decltype(a = b) d = a;                                     // `a` won't be change by `decltype(a = b)`
 
     cout << a << ' ' << b << ' ' << d << endl;
 
