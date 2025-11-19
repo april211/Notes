@@ -3,18 +3,19 @@
 using namespace std;
 
 
-
+/* C */
 // typedef int INT, *int_pointer;
 // typedef int ARRAY_INT[10];
 // typedef int &INTR;
 // typedef const int &CINTR;
 
+/* C++ 11 */
 using INT = int;
-using int_pointer = int*;
+using int_pointer = int*;               // Note: compare the one above using `typedef`
 using cint_pointer = const int*;
-using ARRAY_INT = int[10];
-using INTR = int&;
-using CINTR = const int&;
+using ARRAY_INT = int[10];              // Note: compare the one above using `typedef`
+using INTR = int&;                      // Note: compare the one above using `typedef`
+using CINTR = const int&;               // Note: compare the one above using `typedef`
 
 int c = 10;
 const int ccst_global = 7;                         // address fixed & has constant value!
