@@ -55,6 +55,9 @@ int main() {
 
     cout << *ptr << " " << **pp << " " << ref << endl;
 
+    /* types (including modifiers) must be consistent with each other */
+    // auto i = 0, p = &i;      // 'auto' type is "int *" for this entity, but was previously implied to be "int"
+
     // top-level const is ignored
     int *const ctop_iptr_init = &a;
     const int *const cboth_iptr_init = &a;

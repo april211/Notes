@@ -8,6 +8,10 @@ using INTR = int&;
 int c_global = 9;
 const int ccst_global = 99;
 
+/* unlike `auto`, `decltype` can work without an initializer */
+int *iptr_global = &c_global;
+decltype(iptr_global) iptr_null;
+
 int main() {
 
     int a = 1, b = 2;
@@ -86,6 +90,8 @@ int main() {
     // decltype((clow_iptr)) decl_exp_clow_ptref = iptr;       // ILLEGAL: prevent indirect backdoor attack!
     // decltype((ctop_iptr)) decl_exp_ctop_ptref = iptr;       // legal: one can't change the object to which `iptr` points through it
     decltype((ctop_iptr)) decl_exp_ctop_ptref = &a;            // legal: top-level `const` is kept
+
+    // const decltype(iptr) decl_exp_ctop_pt = &a;             // legal: top-level `const`, similar to `alias + const`
 
     cout << decl_exp_aref << ' ' << decl_exp_a << ' ' << decl_exp_b << ' ' << decl_exp_bref << endl;
     cout << *clow_pt << ' ' << *clow_ptref << ' ' << *decl_exp_ctop_ptref << endl;
