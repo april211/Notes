@@ -83,6 +83,7 @@ int main() {
     const int *clow_pt = iptr;                                 // legal: low-level `const` is convertible
     // const int *&clow_ptref = iptr;                          // ILLEGAL: prevent indirect backdoor attack!
     const int *const&clow_ptref = iptr;                        // legal: can't change `iptr` to pointing to a low-level `const` (forbidden!) via the ref `clow_ptref`
+    cout << "addr of `clow_ptref`: " << &clow_ptref << ", addr of `iptr`: " << &iptr << endl;
     /* r2p: low-level `const` -> high-level `const` */
     /* OR: change `int *iptr = &b;` to `const int *iptr = &b;` (low-level `const` consistency), 
            so that one cannot change the underlying object to which `iptr` points */
