@@ -1,5 +1,7 @@
 #include <iostream>
 
+/* Be careful with macros (plain text substitution)!*/
+
 /* Rule: Variables and functions are snake_case or camelCase. Macros are UPPER_CASE_SNAKE. */
 #define SQUARE_WTOP(x) x * x
 #define SQUARE_WTP(x) ((x) * (x))
@@ -40,22 +42,25 @@ void do_calculation() {
 
 int main() {
 
+    /* 1. Variable scope */
     /* Note: even if `initialize_settings` is not executed, `MY_MACRO` will still be defined!!*/
     // initialize_settings();
 
     do_calculation();
 
-    /* Be careful with macros (plain text substitution)!*/
+    /* 2. Expression: direct substitution */
     std::cout << SQUARE_WTOP(1 + 2) << std::endl;
     std::cout << SQUARE_WTP(1 + 2) << std::endl;
 
+    /* 3. Statement guarding */
     if (false) 
         LOG_ERROR_WTOW("This msg will be shown in the console!");          // note: some parts of macro expansion are not guarded by this ‘if’ clause
 
     if (false)
         LOG_ERROR_WTW("This msg will NOT be shown in the console!");
 
-    /* Best Practice: Never call macros with ++, --, or function calls that change state. */
+    /* 4. Double Expansion: MAX(i, ++j) -> ((a) > (++j) ? (a) : (++j))
+     * Best Practice: Never call macros with ++, --, or function calls that change state. */
     int i = 5;
     int j = 4;
     std::cout << MAX(i, j++) << std::endl;          // Note: Post-increment increases `j` *after* the expresion is evaluated
