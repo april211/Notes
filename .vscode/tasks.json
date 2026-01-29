@@ -10,6 +10,7 @@
                 "-g",
                 "-Wall",
                 "-Wextra",
+                "-pedantic",
                 "-m32",
                 // "-m64",
                 "${file}",
