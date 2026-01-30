@@ -13,6 +13,7 @@ using std::vector;
 using std::getline;
 using std::begin;
 using std::end;
+using std::size_t;
 
 
 
@@ -58,9 +59,9 @@ int main() {
     /* C-style string concat */
     const char css1[] = {'A', 'B', 'C', '\0'};
     const char css2[] = {'D', 'E', '\0'};
-    // const int csz = strlen(css1) + strlen(css2) + 1;         // `constexpr` is NOT necessary on GCC + Linux
-    // constexpr int csz = strlen(css1) + strlen(css2) + 1;     // illegal: expression must have a constant value
-    constexpr int csz = 6;
+    // const size_t csz = strlen(css1) + strlen(css2) + 1;         // `constexpr` is NOT necessary on GCC + Linux
+    // constexpr size_t csz = strlen(css1) + strlen(css2) + 1;     // illegal: expression must have a constant value
+    constexpr size_t csz = 6;
     char css3[csz] = {};                                        // Note: filled with '\0'!
 
     // Use `strcat`
