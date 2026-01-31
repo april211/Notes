@@ -121,6 +121,41 @@ int main() {
     cout << (*p_ref)[0] << endl;                        // eq: iarray_2d[0][0]
     cout << (*(p_ref+2))[3] << endl;                    // eq: iarray_2d[2][3]
 
+    cout << endl;
+
+    /* p2p & multi-dim array*/
+    int (*p2iarray_2d)[3][4] = &iarray_2d;              // a pointer to a 2d array
+
+    // pointer chasing: can be used with ragged arrays
+    cout << *(*(*p2iarray_2d + 2) + 3) << endl;         // *p2iarray_2d -> decay & arith. -> *p2iarray_1d -> decay & arith. -> *p2i -> int
+
+    // offset: for contiguous array only (ONE memory lookup to find an element)
+    // Note: Pointer arithmetic works in "element units," not "byte units."
+    // The compiler secretly inserted the sizeof(int) multiplication.
+    // cout << *((int*)((&(iarray_2d[0][0])) + ((2* 4 + 3)* sizeof(int)))) << endl;         // error!
+    cout << *((int*)((&(iarray_2d[0][0])) + (2* 4 + 3))) << endl;                           // valid.
+    cout << *((int*)((char*)(&(iarray_2d[0][0])) + (2 * 4 + 3) * sizeof(int))) << endl;     // also VALID! (Note: char* conversion)
+
+    cout << "&(iarray_2d[0][0]) == *p2iarray_2d?: " 
+         << int(&(iarray_2d[0][0]) == (int*)(*p2iarray_2d)) << endl;       // contiguous mem: 1 -> SAME address!! (type: int* != int (*)[4])
+
+    cout << endl;
+
+    int *parray_1d[5] = {};                 // an array of pointers
+    cout << typeid(parray_1d).name() << endl;
+
+    int **p2p = parray_1d;                  // decay: int *[5] -> int ** (first *: from array decay, second *: pointer)
+    cout << "*p2p == nullptr?: " 
+         << int(*p2p == nullptr) << endl;   // the 1st elem of `parray_1d`
+
+    // p2p = iarray_2d                      // illegal: a value of type "int (*)[4]" cannot be assigned to an entity of type "int **"
+
+    int a = 42, *pi = &a;
+    int **&r2p2p = p2p;                     // ref to pt to pt
+    r2p2p[4] = pi;                          // Note: you can use a p2p like an array with subscript.
+
+    cout << *parray_1d[4] << endl;          // order: [] -> *
+
     return 0;
 }
 
