@@ -17,7 +17,16 @@ using std::size_t;
 using std::string; using std::vector;
 using std::begin; using std::end;
 
+/*
 
+Usage:
+
+g++ -c double.cpp
+g++ -c ch6-1.cpp
+g++ double.o ch6-1.o -o double.out
+./double.out
+
+*/
 
 
 int main() {
