@@ -115,6 +115,8 @@ int main() {
 
     const int i3 = 5;
     const int *clow_ptr = &i3;
+    // const int *clow_ptr = &d;                    // invalid: base type mismatch is prohibited for low-level const pointers!
+    // const int *clow_ptr = &ival;                 // valid!
     int *const chigh_ptr = &ival;
     int *iptr = &i;
 
